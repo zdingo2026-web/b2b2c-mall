@@ -1,0 +1,37 @@
+{
+  "name": "mall-mobile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "B2B2C商城 - 移动端 (UniApp Vue3)",
+  "scripts": {
+    "dev:mp-weixin": "uni -p mp-weixin",
+    "dev:h5": "uni -p h5",
+    "dev:app": "uni -p app",
+    "build:mp-weixin": "uni build -p mp-weixin",
+    "build:h5": "uni build -p h5",
+    "build:app": "uni build -p app",
+    "type-check": "vue-tsc --noEmit"
+  },
+  "dependencies": {
+    "@dcloudio/uni-app": "3.0.0-4060620250520001",
+    "@dcloudio/uni-app-plus": "3.0.0-4060620250520001",
+    "@dcloudio/uni-components": "3.0.0-4060620250520001",
+    "@dcloudio/uni-h5": "3.0.0-4060620250520001",
+    "@dcloudio/uni-mp-weixin": "3.0.0-4060620250520001",
+    "dayjs": "^1.11.13",
+    "pinia": "^2.3.0",
+    "remixicon": "^4.9.1",
+    "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "@dcloudio/types": "^3.4.14",
+    "@dcloudio/uni-automator": "3.0.0-4060620250520001",
+    "@dcloudio/uni-cli-shared": "3.0.0-4060620250520001",
+    "@dcloudio/uni-stacktracey": "3.0.0-4060620250520001",
+    "@dcloudio/vite-plugin-uni": "3.0.0-4060620250520001",
+    "sass": "^1.83.0",
+    "typescript": "^5.7.0",
+    "vite": "^5.4.0",
+    "vue-tsc": "^2.2.0"
+  }
+}

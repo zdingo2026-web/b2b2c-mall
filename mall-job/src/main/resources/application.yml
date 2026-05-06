@@ -1,0 +1,52 @@
+server:
+  port: 8082
+  servlet:
+    context-path: /
+
+spring:
+  application:
+    name: mall-job
+  profiles:
+    active: dev
+  mvc:
+    # 解决中文乱码
+    encoding:
+      enabled: true
+      charset: UTF-8
+      force: true
+  http:
+    encoding:
+      enabled: true
+      charset: UTF-8
+      force: true
+  quartz:
+    job-store-type: memory
+    auto-startup: true
+    startup-delay: 10
+    wait-for-jobs-to-complete-on-shutdown: true
+
+# MyBatis-Plus
+mybatis-plus:
+  mapper-locations: classpath*:mapper/**/*.xml
+  type-aliases-package: com.mall.model.entity
+  configuration:
+    map-underscore-to-camel-case: true
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    cache-enabled: false
+  global-config:
+    db-config:
+      id-type: assign_id
+      logic-delete-field: deleted
+      logic-delete-value: 1
+      logic-not-delete-value: 0
+
+# JWT
+mall:
+  jwt:
+    secret: ${JWT_SECRET:devOnlySecretKeyForLocalTestingMustBe32Chars!!}
+    expiration: 86400000
+    refresh-expiration: 604800000
+
+logging:
+  level:
+    com.mall: debug

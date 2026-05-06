@@ -1,0 +1,31 @@
+
+Running 15 tests using 1 worker
+
+  ok  1 [chromium] › tests\merchant-list.spec.ts:11:7 › 商家列表自动化测试 › 步骤1: 登录并导航到商家列表页面 (7.0s)
+  ok  2 [chromium] › tests\merchant-list.spec.ts:23:7 › 商家列表自动化测试 › 步骤2: 验证商家列表页面内容 (6.9s)
+Table row count: 10
+Found 10 data rows in merchant list
+Pagination text: 共 11 条 1 2
+  ok  3 [chromium] › tests\merchant-list.spec.ts:56:7 › 商家列表自动化测试 › 步骤3: 验证列表数据存在 (8.9s)
+Pending status rows: 1
+  ok  4 [chromium] › tests\merchant-list.spec.ts:82:7 › 商家列表自动化测试 › 步骤4: 测试状态筛选 - 待审核 (10.5s)
+Approved status rows: 9
+  ok  5 [chromium] › tests\merchant-list.spec.ts:111:7 › 商家列表自动化测试 › 步骤4b: 测试状态筛选 - 已通过 (9.0s)
+Rejected status rows: 1
+  ok  6 [chromium] › tests\merchant-list.spec.ts:130:7 › 商家列表自动化测试 › 步骤4c: 测试状态筛选 - 已拒绝 (9.0s)
+Disabled status rows: 0
+  ok  7 [chromium] › tests\merchant-list.spec.ts:149:7 › 商家列表自动化测试 › 步骤4d: 测试状态筛选 - 已禁用 (8.9s)
+Search by name "电子数码" result rows: 1
+  ok  8 [chromium] › tests\merchant-list.spec.ts:168:7 › 商家列表自动化测试 › 步骤5: 测试搜索功能 - 按商家名称搜索 (8.9s)
+Search by contact "张经理" result rows: 1
+  ok  9 [chromium] › tests\merchant-list.spec.ts:199:7 › 商家列表自动化测试 › 步骤5b: 测试搜索功能 - 按联系人搜索 (8.9s)
+Search by phone "13800138001" result rows: 1
+  ok 10 [chromium] › tests\merchant-list.spec.ts:218:7 › 商家列表自动化测试 › 步骤5c: 测试搜索功能 - 按电话号码搜索 (8.9s)
+  ok 11 [chromium] › tests\merchant-list.spec.ts:237:7 › 商家列表自动化测试 › 步骤6: 测试查看商家详情 (10.5s)
+  ok 12 [chromium] › tests\merchant-list.spec.ts:271:7 › 商家列表自动化测试 › 步骤7: 测试评分功能 (22.5s)
+  ok 13 [chromium] › tests\merchant-list.spec.ts:333:7 › 商家列表自动化测试 › 步骤8: 测试禁用商家功能 (11.5s)
+Enable success: 已启用
+  ok 14 [chromium] › tests\merchant-list.spec.ts:358:7 › 商家列表自动化测试 › 步骤9: 测试启用商家功能 (13.0s)
+  ok 15 [chromium] › tests\merchant-list.spec.ts:390:7 › 商家列表自动化测试 › 步骤10: 测试分页功能 (12.0s)
+
+  15 passed (2.8m)

@@ -1,0 +1,1 @@
+import{_ as c,o as n,c as o,b as t,J as s}from"./CcUmREUu.js";const _={},a={class:"min-h-screen bg-gray-50"};function r(m,d){const e=s;return n(),o("div",a,[t(e)])}const i=c(_,[["render",r]]);export{i as default};

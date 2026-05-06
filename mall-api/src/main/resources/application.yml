@@ -1,0 +1,73 @@
+server:
+  port: 8081
+  servlet:
+    context-path: /
+
+spring:
+  application:
+    name: mall-api
+  profiles:
+    active: dev
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+    # 解决中文乱码
+    encoding:
+      enabled: true
+      charset: UTF-8
+      force: true
+  http:
+    encoding:
+      enabled: true
+      charset: UTF-8
+      force: true
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 20MB
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+    serialization:
+      write-dates-as-timestamps: false
+    default-property-inclusion: non_null
+
+# MyBatis-Plus
+mybatis-plus:
+  mapper-locations: classpath*:mapper/**/*.xml
+  type-aliases-package: com.mall.model.entity
+  configuration:
+    map-underscore-to-camel-case: true
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    cache-enabled: false
+  global-config:
+    db-config:
+      id-type: assign_id
+      logic-delete-field: deleted
+      logic-delete-value: 1
+      logic-not-delete-value: 0
+      table-prefix:
+
+# JWT
+mall:
+  jwt:
+    secret: ${JWT_SECRET:devOnlySecretKeyForLocalTestingMustBe32Chars!!}
+    expiration: 86400000
+    refresh-expiration: 604800000
+  cors:
+    allowed-origins: http://localhost:5173,http://localhost:5174,http://localhost:3000,http://localhost:3002
+
+# Knife4j
+knife4j:
+  enable: true
+  setting:
+    language: zh_cn
+  open-api:
+    title: Mall API
+    description: B2B2C Mall Member API
+    version: 1.0.0
+
+logging:
+  level:
+    com.mall: debug
+    com.baomidou: debug

@@ -1,0 +1,24 @@
+package com.mall.model.entity;
+
+import com.mall.common.base.BaseEntity;
+import lombok.Data;
+import lombok.EqualsAndHashCode;
+
+/**
+ * 收藏表
+ */
+@Data
+@EqualsAndHashCode(callSuper = true)
+public class MemberCollect extends BaseEntity {
+
+    private static final long serialVersionUID = 1L;
+
+    /** 会员ID */
+    private Long memberId;
+
+    /** 商品SPU ID */
+    private Long spuId;
+
+    /** 收藏类型: 1-商品 2-店铺 3-内容 */
+    private Integer collectType;
+}

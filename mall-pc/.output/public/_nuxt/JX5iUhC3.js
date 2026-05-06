@@ -1,0 +1,1 @@
+import{g as t,q as n,c as o,b as a,o as c,J as r}from"./CcUmREUu.js";const m=t({__name:"register",setup(_){return n("/login",{replace:!0}),(s,p)=>{const e=r;return c(),o("div",null,[a(e)])}}});export{m as default};
