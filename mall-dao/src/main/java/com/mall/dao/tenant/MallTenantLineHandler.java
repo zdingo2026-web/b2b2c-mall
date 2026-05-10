@@ -70,6 +70,25 @@ public class MallTenantLineHandler implements TenantLineHandler {
             "product_category",
             "product_brand",
             "sys_file",
-            "sms_code"
+            "sms_code",
+            // === 二期新增 ===
+            "points_rule",
+            "points_consume_rule",
+            "points_account",
+            "points_detail",
+            "points_product_category",
+            "distribution_config",
+            "deco_template",
+            "member_level",
+            "member_checkin_record",
+            "member_realname_auth",
+            "newcomer_pack",
+            "first_order_config",
+            "tenant_level",
+            "category_commission",
+            "tenant_commission_settlement",
+            "tenant_freeze_record",
+            "tenant_settle_config",
+            "member_paypwd_reset"
     ));
 }

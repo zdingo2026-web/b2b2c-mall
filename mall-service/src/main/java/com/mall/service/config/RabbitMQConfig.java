@@ -48,6 +48,18 @@ public class RabbitMQConfig {
     public static final String SMS_QUEUE = "mall.sms.queue";
     public static final String SMS_ROUTING_KEY = "mall.sms.send";
 
+    // ===== Seckill Order (二期) =====
+
+    public static final String SECKILL_ORDER_EXCHANGE = "mall.seckill.order.exchange";
+    public static final String SECKILL_ORDER_QUEUE = "mall.seckill.order.queue";
+    public static final String SECKILL_ORDER_ROUTING_KEY = "mall.seckill.order";
+
+    // ===== Commission Unfreeze (二期) =====
+
+    public static final String COMMISSION_UNFREEZE_EXCHANGE = "mall.commission.unfreeze.exchange";
+    public static final String COMMISSION_UNFREEZE_QUEUE = "mall.commission.unfreeze.queue";
+    public static final String COMMISSION_UNFREEZE_ROUTING_KEY = "mall.commission.unfreeze";
+
     // ===== JSON Message Converter =====
 
     @Bean
@@ -136,5 +148,43 @@ public class RabbitMQConfig {
         return BindingBuilder.bind(smsQueue())
                 .to(smsExchange())
                 .with(SMS_ROUTING_KEY);
+    }
+
+    // ===== Seckill Order Queues (二期) =====
+
+    @Bean
+    public DirectExchange seckillOrderExchange() {
+        return new DirectExchange(SECKILL_ORDER_EXCHANGE, true, false);
+    }
+
+    @Bean
+    public Queue seckillOrderQueue() {
+        return QueueBuilder.durable(SECKILL_ORDER_QUEUE).build();
+    }
+
+    @Bean
+    public Binding seckillOrderBinding() {
+        return BindingBuilder.bind(seckillOrderQueue())
+                .to(seckillOrderExchange())
+                .with(SECKILL_ORDER_ROUTING_KEY);
+    }
+
+    // ===== Commission Unfreeze Queues (二期) =====
+
+    @Bean
+    public DirectExchange commissionUnfreezeExchange() {
+        return new DirectExchange(COMMISSION_UNFREEZE_EXCHANGE, true, false);
+    }
+
+    @Bean
+    public Queue commissionUnfreezeQueue() {
+        return QueueBuilder.durable(COMMISSION_UNFREEZE_QUEUE).build();
+    }
+
+    @Bean
+    public Binding commissionUnfreezeBinding() {
+        return BindingBuilder.bind(commissionUnfreezeQueue())
+                .to(commissionUnfreezeExchange())
+                .with(COMMISSION_UNFREEZE_ROUTING_KEY);
     }
 }

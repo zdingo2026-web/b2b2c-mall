@@ -44,4 +44,32 @@ public final class RedisKeyConstant {
 
     /** Rate limit: rate:{key} */
     public static final String RATE_LIMIT = BASE + "rate:";
+
+    // ===== 秒杀 =====
+    public static final String SECKILL_ACTIVITY = BASE + "seckill:activity:";
+    public static final String SECKILL_SKU = BASE + "seckill:sku:";
+    public static final String SECKILL_BOUGHT = BASE + "seckill:bought:";
+    public static final String SECKILL_TOKEN = BASE + "seckill:token:";
+    public static final String SECKILL_RESULT = BASE + "seckill:result:";
+    public static final String SECKILL_RATE_LIMIT = BASE + "seckill:rate:";
+    public static final String SECKILL_IDEMPOTENT = BASE + "seckill:idempotent:";
+
+    // ===== 优惠券 =====
+    public static final String COUPON_STOCK = BASE + "coupon:stock:";
+    public static final String COUPON_CLAIMED = BASE + "coupon:claimed:";
+    public static final String COUPON_CLAIM_LIMIT = BASE + "coupon:claim:limit:";
+
+    // ===== 拼团 =====
+    public static final String GROUP_JOIN_LOCK = BASE + "group:join:lock:";
+
+    // ===== 装修 =====
+    public static final String DECO_PAGE = BASE + "deco:page:";
+
+    // ===== 分销 =====
+    public static final String DISTRIBUTION_RELATION = BASE + "dist:relation:";
+    public static final String DISTRIBUTION_POSTER = BASE + "dist:poster:";
+    public static final String COMMISSION_IDEMPOTENT = BASE + "commission:idempotent:";
+
+    // ===== 积分 =====
+    public static final String POINTS_ACCOUNT = BASE + "points:account:";
 }

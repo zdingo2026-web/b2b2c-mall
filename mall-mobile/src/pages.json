@@ -116,6 +116,114 @@
       "style": {
         "navigationBarTitleText": "注册"
       }
+    },
+    {
+      "path": "pages/seckill/index",
+      "style": {
+        "navigationBarTitleText": "限时秒杀"
+      }
+    },
+    {
+      "path": "pages/group-buy/index",
+      "style": {
+        "navigationBarTitleText": "拼团列表"
+      }
+    },
+    {
+      "path": "pages/group-buy/detail",
+      "style": {
+        "navigationBarTitleText": "拼团详情"
+      }
+    },
+    {
+      "path": "pages/points/index",
+      "style": {
+        "navigationBarTitleText": "积分中心"
+      }
+    },
+    {
+      "path": "pages/points/exchange",
+      "style": {
+        "navigationBarTitleText": "积分兑换"
+      }
+    },
+    {
+      "path": "pages/distribution/index",
+      "style": {
+        "navigationBarTitleText": "分销中心"
+      }
+    },
+    {
+      "path": "pages/seckill/detail",
+      "style": {
+        "navigationBarTitleText": "秒杀详情"
+      }
+    },
+    {
+      "path": "pages/seckill/result",
+      "style": {
+        "navigationBarTitleText": "秒杀结果"
+      }
+    },
+    {
+      "path": "pages/group-buy/confirm",
+      "style": {
+        "navigationBarTitleText": "确认参团"
+      }
+    },
+    {
+      "path": "pages/points/detail",
+      "style": {
+        "navigationBarTitleText": "积分明细"
+      }
+    },
+    {
+      "path": "pages/points/checkin",
+      "style": {
+        "navigationBarTitleText": "每日签到"
+      }
+    },
+    {
+      "path": "pages/distribution/withdraw",
+      "style": {
+        "navigationBarTitleText": "申请提现"
+      }
+    },
+    {
+      "path": "pages/distribution/commission",
+      "style": {
+        "navigationBarTitleText": "佣金明细"
+      }
+    },
+    {
+      "path": "pages/distribution/team",
+      "style": {
+        "navigationBarTitleText": "我的团队"
+      }
+    },
+    {
+      "path": "pages/distribution/order",
+      "style": {
+        "navigationBarTitleText": "分销订单"
+      }
+    },
+    {
+      "path": "pages/distribution/poster",
+      "style": {
+        "navigationBarTitleText": "推广海报"
+      }
+    },
+    {
+      "path": "pages/coupon/list",
+      "style": {
+        "navigationBarTitleText": "领券中心"
+      }
+    },
+    {
+      "path": "pages/coupon/mine",
+      "style": {
+        "navigationBarTitleText": "我的优惠券"
+      }
     }
   ],
   "globalStyle": {

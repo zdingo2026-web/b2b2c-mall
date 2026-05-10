@@ -14,3 +14,13 @@ export interface CouponVO {
 export function getCouponList(params?: { status?: number; page?: number; limit?: number }) {
   return http.get<{ list: CouponVO[]; total: number }>('/v1/member/coupon/list', params)
 }
+
+/** 领取优惠券 */
+export function claimCoupon(templateId: number) {
+  return http.post<void>(`/v1/member/account/coupon/${templateId}/claim`)
+}
+
+/** 获取可用优惠券(下单时) */
+export function getAvailableCoupons(params?: { spuId?: number; amount?: number }) {
+  return http.get<CouponVO[]>('/v1/member/account/coupon/available', params)
+}

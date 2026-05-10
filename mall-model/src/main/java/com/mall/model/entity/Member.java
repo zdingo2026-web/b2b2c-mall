@@ -64,4 +64,16 @@ public class Member extends BaseEntity {
     /** 会员编号 */
     @TableField("member_no")
     private String memberNo;
+
+    /** 会员等级ID */
+    @TableField("level_id")
+    private Long levelId;
+
+    /** 是否设置支付密码: 0-否 1-是 */
+    @TableField("has_pay_password")
+    private Integer hasPayPassword;
+
+    /** 实名状态: 0-未认证 1-待审核 2-已通过 */
+    @TableField("realname_status")
+    private Integer realnameStatus;
 }

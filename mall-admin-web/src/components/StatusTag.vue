@@ -7,7 +7,7 @@ import { computed } from 'vue'
 
 const props = defineProps<{
   status: number
-  type: 'tenant' | 'product' | 'order' | 'pay' | 'refund' | 'member' | 'admin' | 'settle'
+  type: 'tenant' | 'product' | 'order' | 'pay' | 'refund' | 'member' | 'admin' | 'settle' | 'coupon' | 'activity' | 'distributor' | 'withdraw' | 'pointsProduct'
 }>()
 
 const config: Record<string, Record<number, { label: string; type: '' | 'success' | 'warning' | 'danger' | 'info' }>> = {
@@ -55,6 +55,32 @@ const config: Record<string, Record<number, { label: string; type: '' | 'success
   settle: {
     0: { label: '待结算', type: 'warning' },
     1: { label: '已结算', type: 'success' },
+  },
+  coupon: {
+    0: { label: '已禁用', type: 'info' },
+    1: { label: '已启用', type: 'success' },
+    2: { label: '已过期', type: 'danger' },
+  },
+  activity: {
+    0: { label: '未开始', type: 'info' },
+    1: { label: '进行中', type: 'success' },
+    2: { label: '已结束', type: 'danger' },
+  },
+  distributor: {
+    0: { label: '待审核', type: 'warning' },
+    1: { label: '已通过', type: 'success' },
+    2: { label: '已拒绝', type: 'danger' },
+    3: { label: '已禁用', type: 'info' },
+  },
+  withdraw: {
+    0: { label: '待审核', type: 'warning' },
+    1: { label: '已通过', type: 'success' },
+    2: { label: '已拒绝', type: 'danger' },
+    3: { label: '已打款', type: 'success' },
+  },
+  pointsProduct: {
+    0: { label: '已下架', type: 'info' },
+    1: { label: '已上架', type: 'success' },
   },
 }
 

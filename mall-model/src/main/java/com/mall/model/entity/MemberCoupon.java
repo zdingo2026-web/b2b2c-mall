@@ -56,4 +56,32 @@ public class MemberCoupon extends BaseEntity {
     /** 使用时间 */
     @TableField("use_time")
     private LocalDateTime useTime;
+
+    /** 优惠券模板ID */
+    @TableField("coupon_template_id")
+    private Long couponTemplateId;
+
+    /** 来源类型: 1-主动领取 2-系统发放 3-活动赠送 */
+    @TableField("source_type")
+    private Integer sourceType;
+
+    /** 来源ID */
+    @TableField("source_id")
+    private Long sourceId;
+
+    /** 使用时关联订单ID */
+    @TableField("order_id")
+    private Long orderId;
+
+    /** 生效时间 */
+    @TableField("valid_start_time")
+    private LocalDateTime validStartTime;
+
+    /** 发放商户ID */
+    @TableField("tenant_id")
+    private Long tenantId;
+
+    /** 秒杀商品是否可用 */
+    @TableField("can_stack_seckill")
+    private Integer canStackSeckill;
 }

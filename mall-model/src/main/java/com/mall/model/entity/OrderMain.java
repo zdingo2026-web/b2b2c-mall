@@ -28,6 +28,50 @@ public class OrderMain extends TenantEntity {
     /** 订单类型: 1普通订单 */
     private Integer orderType;
 
+    /** 关联活动ID */
+    @TableField("activity_id")
+    private Long activityId;
+
+    /** 拼团记录ID */
+    @TableField("group_record_id")
+    private Long groupRecordId;
+
+    /** 商户优惠券ID */
+    @TableField("merchant_coupon_id")
+    private Long merchantCouponId;
+
+    /** 平台优惠券ID */
+    @TableField("platform_coupon_id")
+    private Long platformCouponId;
+
+    /** 商户优惠券优惠金额 */
+    @TableField("merchant_coupon_discount")
+    private BigDecimal merchantCouponDiscount;
+
+    /** 平台优惠券优惠金额 */
+    @TableField("platform_coupon_discount")
+    private BigDecimal platformCouponDiscount;
+
+    /** 首单优惠金额 */
+    @TableField("first_order_discount")
+    private BigDecimal firstOrderDiscount;
+
+    /** 积分抵扣金额 */
+    @TableField("points_deduct_amount")
+    private BigDecimal pointsDeductAmount;
+
+    /** 积分抵扣数量 */
+    @TableField("points_deduct_value")
+    private Integer pointsDeductValue;
+
+    /** 红包ID */
+    @TableField("red_packet_id")
+    private Long redPacketId;
+
+    /** 红包优惠金额 */
+    @TableField("red_packet_discount")
+    private BigDecimal redPacketDiscount;
+
     /** 订单状态: 0待付款 1待发货 2待收货 3已完成 4已取消 5退款中 6已退款 */
     private Integer orderStatus;
 

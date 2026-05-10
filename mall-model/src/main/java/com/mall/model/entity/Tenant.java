@@ -65,4 +65,20 @@ public class Tenant extends BaseEntity {
     /** 物流评分 */
     @TableField("score_logistics")
     private java.math.BigDecimal scoreLogistics;
+
+    /** 商家等级ID */
+    @TableField("level_id")
+    private Long levelId;
+
+    /** 综合评分 */
+    @TableField("score_composite")
+    private java.math.BigDecimal scoreComposite;
+
+    /** 评分人数 */
+    @TableField("score_count")
+    private Integer scoreCount;
+
+    /** 冻结状态: 0-正常 1-已冻结 2-已封禁 */
+    @TableField("freeze_status")
+    private Integer freezeStatus;
 }

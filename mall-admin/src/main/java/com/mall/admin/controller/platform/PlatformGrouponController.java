@@ -1,0 +1,48 @@
+package com.mall.admin.controller.platform;
+
+import com.mall.common.response.PageResult;
+import com.mall.common.response.R;
+import com.mall.model.dto.promotion.GrouponCreateDTO;
+import com.mall.model.vo.promotion.GrouponActivityVO;
+import com.mall.service.promotion.GrouponActivityService;
+import lombok.RequiredArgsConstructor;
+import lombok.extern.slf4j.Slf4j;
+import org.springframework.security.access.prepost.PreAuthorize;
+import org.springframework.validation.annotation.Validated;
+import org.springframework.web.bind.annotation.*;
+
+@Slf4j
+@RestController
+@RequestMapping("/api/v1/platform/groupon")
+@RequiredArgsConstructor
+@PreAuthorize("hasRole('PLATFORM')")
+public class PlatformGrouponController {
+
+    private final GrouponActivityService grouponActivityService;
+
+    @GetMapping("/list")
+    public R<PageResult<GrouponActivityVO>> list(
+            @RequestParam(required = false) Integer status,
+            @RequestParam(defaultValue = "1") Integer page,
+            @RequestParam(defaultValue = "10") Integer limit) {
+        return R.ok(grouponActivityService.list(null, status, page, limit));
+    }
+
+    @PostMapping("/create")
+    public R<Void> create(@Validated @RequestBody GrouponCreateDTO dto) {
+        grouponActivityService.create(0L, dto);
+        return R.ok();
+    }
+
+    @PutMapping("/{id}")
+    public R<Void> update(@PathVariable Long id, @Validated @RequestBody GrouponCreateDTO dto) {
+        grouponActivityService.update(id, dto);
+        return R.ok();
+    }
+
+    @DeleteMapping("/{id}")
+    public R<Void> delete(@PathVariable Long id) {
+        grouponActivityService.delete(id);
+        return R.ok();
+    }
+}

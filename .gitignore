@@ -24,3 +24,6 @@ logs/
 
 # Node
 node_modules/
+
+# Graphify cache
+graphify-out/cache/
