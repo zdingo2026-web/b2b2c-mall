@@ -1,0 +1,2574 @@
+{
+  "D:\\project\\mall\\docs\\architecture\\digital_mock_data.sql": {
+    "mtime": 1777884195.5788438,
+    "hash": "bfbe318362177d3dd3dda7e70291a51f"
+  },
+  "D:\\project\\mall\\docs\\architecture\\full_mock_data.sql": {
+    "mtime": 1777597741.391999,
+    "hash": "76627fca42faaea24be20572e1e7a1e1"
+  },
+  "D:\\project\\mall\\docs\\architecture\\init.sql": {
+    "mtime": 1777559992.4568534,
+    "hash": "6f5f4b4b57423b0b3aeaeae3e66c0304"
+  },
+  "D:\\project\\mall\\docs\\architecture\\init_fixed.sql": {
+    "mtime": 1777597100.0344112,
+    "hash": "3f64ae5534dbea647574096e6e4597d9"
+  },
+  "D:\\project\\mall\\docs\\architecture\\mock_data.sql": {
+    "mtime": 1777597996.7708201,
+    "hash": "979dbada9640d5a1401b271fa43f0eb6"
+  },
+  "D:\\project\\mall\\docs\\architecture\\order_supplement.sql": {
+    "mtime": 1777598192.6039329,
+    "hash": "b74e9892bc7816851b453d65ab77fc33"
+  },
+  "D:\\project\\mall\\docs\\architecture\\platform_mock_data.sql": {
+    "mtime": 1777800444.3278205,
+    "hash": "dc419833f98ffaf7c52f2deab142e60c"
+  },
+  "D:\\project\\mall\\docs\\architecture\\supplement_mock_data.sql": {
+    "mtime": 1777597767.163788,
+    "hash": "c0880f34b1db284aae803d891f63b955"
+  },
+  "D:\\project\\mall\\docs\\architecture\\v2_migration.sql": {
+    "mtime": 1777620376.431675,
+    "hash": "b3ab632911637835f68b1d5bf1ec23d7"
+  },
+  "D:\\project\\mall\\docs\\architecture\\v3_migration.sql": {
+    "mtime": 1777653884.024789,
+    "hash": "d1d4711c6eabf27f602546bc5eed4f9f"
+  },
+  "D:\\project\\mall\\docs\\architecture\\v3_seed_data.sql": {
+    "mtime": 1777654934.2992437,
+    "hash": "eb516d6cc415000e904757f12a7ac5b7"
+  },
+  "D:\\project\\mall\\docs\\architecture\\v4_minio_seed_data.sql": {
+    "mtime": 1777692806.8680782,
+    "hash": "627c812f3504fe096fa93e7586dd820e"
+  },
+  "D:\\project\\mall\\docs\\architecture\\v5_sms_code_migration.sql": {
+    "mtime": 1777943727.2691467,
+    "hash": "d0156c4ad68c7bd920f7456450f7221c"
+  },
+  "D:\\project\\mall\\docs\\architecture\\v6_refund_prerefund_status_migration.sql": {
+    "mtime": 1777996874.534598,
+    "hash": "28f4b798b7e3be314794b99979821f7e"
+  },
+  "D:\\project\\mall\\e2e\\playwright.config.ts": {
+    "mtime": 1777770693.5147238,
+    "hash": "7f913f2d4e35d7b4bb23658a3159a33e"
+  },
+  "D:\\project\\mall\\e2e\\screenshot.js": {
+    "mtime": 1777773082.9366603,
+    "hash": "581eea9125699032915b862072ad3169"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\trace\\index.C5466mMT.js": {
+    "mtime": 1777770601.3831606,
+    "hash": "cbb19437af7dd0cea34f746827aeba31"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\trace\\sw.bundle.js": {
+    "mtime": 1777770601.5243125,
+    "hash": "7ccc02daaa77f22e4bf963e93634e4cf"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\trace\\uiMode.Vipi55dB.js": {
+    "mtime": 1777770601.5628583,
+    "hash": "64b3fa8986d41977c754db8b69bdd6b9"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\trace\\assets\\codeMirrorModule-DS0FLvoc.js": {
+    "mtime": 1777770601.271151,
+    "hash": "5c61b3c68aff2f28b96664e3077135ab"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\trace\\assets\\defaultSettingsView-GTWI-W_B.js": {
+    "mtime": 1777770601.324455,
+    "hash": "22c74873c0cedf2f8d29e780d363759c"
+  },
+  "D:\\project\\mall\\e2e\\tests\\brand-manage.spec.ts": {
+    "mtime": 1777782758.0259435,
+    "hash": "14f12c049b84112a0bd05376c9bfbc2e"
+  },
+  "D:\\project\\mall\\e2e\\tests\\category-manage.spec.ts": {
+    "mtime": 1777785638.5975275,
+    "hash": "1f3b0d61f733dbe588b487e8ec991715"
+  },
+  "D:\\project\\mall\\e2e\\tests\\member-manage.spec.ts": {
+    "mtime": 1777984031.7455814,
+    "hash": "9193dfe2b43e019497507ea80e5a22ad"
+  },
+  "D:\\project\\mall\\e2e\\tests\\merchant-audit.spec.ts": {
+    "mtime": 1777787291.561154,
+    "hash": "afb23ea5c24561a2a48730f7cbf184d8"
+  },
+  "D:\\project\\mall\\e2e\\tests\\merchant-dashboard.spec.ts": {
+    "mtime": 1777984262.125779,
+    "hash": "02852356efb6fc140b9f01a6ed4902ac"
+  },
+  "D:\\project\\mall\\e2e\\tests\\merchant-finance.spec.ts": {
+    "mtime": 1777984262.132069,
+    "hash": "54eae1702b8b3d84dd9f952c489517ba"
+  },
+  "D:\\project\\mall\\e2e\\tests\\merchant-list.spec.ts": {
+    "mtime": 1777772173.7335818,
+    "hash": "7e4e392786cdb5a135ddbee4b90fcb7d"
+  },
+  "D:\\project\\mall\\e2e\\tests\\merchant-order.spec.ts": {
+    "mtime": 1777984262.1918356,
+    "hash": "2d1d57cd50ba2a0b902299261b2d525c"
+  },
+  "D:\\project\\mall\\e2e\\tests\\merchant-product.spec.ts": {
+    "mtime": 1777984262.25252,
+    "hash": "1be8b5429a3d141840073d06bb9131c3"
+  },
+  "D:\\project\\mall\\e2e\\tests\\merchant-refund.spec.ts": {
+    "mtime": 1777984262.2735758,
+    "hash": "7ed7949322bbeec346888c2117247666"
+  },
+  "D:\\project\\mall\\e2e\\tests\\merchant-shop.spec.ts": {
+    "mtime": 1777984262.2883935,
+    "hash": "b300ad795818f104e7eb4e3dba3abffc"
+  },
+  "D:\\project\\mall\\e2e\\tests\\notice-manage.spec.ts": {
+    "mtime": 1777984031.773693,
+    "hash": "fc5e0e048d71b89e31e60ce817726221"
+  },
+  "D:\\project\\mall\\e2e\\tests\\order-manage.spec.ts": {
+    "mtime": 1777984031.7805922,
+    "hash": "b66f0ce2be4d0274421c734cf27c4da2"
+  },
+  "D:\\project\\mall\\e2e\\tests\\self-product.spec.ts": {
+    "mtime": 1777787311.7064817,
+    "hash": "375630c24ea60f12dbe955b4757970ba"
+  },
+  "D:\\project\\mall\\e2e\\tests\\utils\\common.ts": {
+    "mtime": 1777984262.357165,
+    "hash": "0a10475f0dc4351efad2c0b959f0ed3e"
+  },
+  "D:\\project\\mall\\mall-admin\\src\\main\\java\\com\\mall\\admin\\MallAdminApplication.java": {
+    "mtime": 1777483719.1644132,
+    "hash": "b3d0b274461cfce4551880f12aef55c7"
+  },
+  "D:\\project\\mall\\mall-admin\\src\\main\\java\\com\\mall\\admin\\controller\\AdminFileController.java": {
+    "mtime": 1777691465.1645277,
+    "hash": "f63f78db1d07477d6ea43c950dd817bd"
+  },
+  "D:\\project\\mall\\mall-admin\\src\\main\\java\\com\\mall\\admin\\controller\\PlatformBannerController.java": {
+    "mtime": 1777501858.5430272,
+    "hash": "8544e67c81e22f8be0abb3f33cadfa23"
+  },
+  "D:\\project\\mall\\mall-admin\\src\\main\\java\\com\\mall\\admin\\controller\\PlatformConfigController.java": {
+    "mtime": 1777501858.547204,
+    "hash": "a54aa930e20aa8a288985fe11ddbbe3f"
+  },
+  "D:\\project\\mall\\mall-admin\\src\\main\\java\\com\\mall\\admin\\controller\\PlatformFloorController.java": {
+    "mtime": 1777501858.547204,
+    "hash": "a4f491d8b1e2a2c698dc5eab82a07da3"
+  },
+  "D:\\project\\mall\\mall-admin\\src\\main\\java\\com\\mall\\admin\\controller\\PlatformStatisticsController.java": {
+    "mtime": 1777501858.55745,
+    "hash": "82c7f135b1bc4c9631970ffe229ce0c8"
+  },
+  "D:\\project\\mall\\mall-admin\\src\\main\\java\\com\\mall\\admin\\controller\\merchant\\MerchantAdminController.java": {
+    "mtime": 1777996422.1170413,
+    "hash": "71641dd741d3314fc666d31b4f038491"
+  },
+  "D:\\project\\mall\\mall-admin\\src\\main\\java\\com\\mall\\admin\\controller\\merchant\\MerchantAuthController.java": {
+    "mtime": 1778000307.2773025,
+    "hash": "b4be9b483d053c3c359667e4928e8388"
+  },
+  "D:\\project\\mall\\mall-admin\\src\\main\\java\\com\\mall\\admin\\controller\\merchant\\MerchantFinanceController.java": {
+    "mtime": 1778000093.9421022,
+    "hash": "be51c897b869fb16f85b791372116f64"
+  },
+  "D:\\project\\mall\\mall-admin\\src\\main\\java\\com\\mall\\admin\\controller\\merchant\\MerchantOrderController.java": {
+    "mtime": 1777996493.6934156,
+    "hash": "a27a1f2255c6a338048274aa0352e918"
+  },
+  "D:\\project\\mall\\mall-admin\\src\\main\\java\\com\\mall\\admin\\controller\\merchant\\MerchantProductController.java": {
+    "mtime": 1777996472.2979572,
+    "hash": "85052e1f5e8f61fff08277940c4a9bdb"
+  },
+  "D:\\project\\mall\\mall-admin\\src\\main\\java\\com\\mall\\admin\\controller\\merchant\\MerchantRefundController.java": {
+    "mtime": 1777996385.4014845,
+    "hash": "fab4046b9bf14a68114c98624c6b77c6"
+  },
+  "D:\\project\\mall\\mall-admin\\src\\main\\java\\com\\mall\\admin\\controller\\merchant\\MerchantShopController.java": {
+    "mtime": 1777996400.70428,
+    "hash": "e1aeea4e40a787ad7a56ee68a7b5499c"
+  },
+  "D:\\project\\mall\\mall-admin\\src\\main\\java\\com\\mall\\admin\\controller\\merchant\\MerchantStatisticsController.java": {
+    "mtime": 1777996456.408784,
+    "hash": "66c577e3507c935bf0d14defe773603d"
+  },
+  "D:\\project\\mall\\mall-admin\\src\\main\\java\\com\\mall\\admin\\controller\\platform\\PlatformAuthController.java": {
+    "mtime": 1778000256.046286,
+    "hash": "fe2107689e576d58c7660a51dc9d73e0"
+  },
+  "D:\\project\\mall\\mall-admin\\src\\main\\java\\com\\mall\\admin\\controller\\platform\\PlatformContentController.java": {
+    "mtime": 1777996280.5535975,
+    "hash": "bc953fbbb6c765d71506763c5745c24b"
+  },
+  "D:\\project\\mall\\mall-admin\\src\\main\\java\\com\\mall\\admin\\controller\\platform\\PlatformFileController.java": {
+    "mtime": 1777996363.8519495,
+    "hash": "84f4e92eddcf5d82cd0b4432207eeed2"
+  },
+  "D:\\project\\mall\\mall-admin\\src\\main\\java\\com\\mall\\admin\\controller\\platform\\PlatformMemberController.java": {
+    "mtime": 1777996263.0381808,
+    "hash": "b02a672bf3eb5406558868d33f4576af"
+  },
+  "D:\\project\\mall\\mall-admin\\src\\main\\java\\com\\mall\\admin\\controller\\platform\\PlatformOrderController.java": {
+    "mtime": 1777996355.9667597,
+    "hash": "8f5c9c672f9b1b259b88f564c372931f"
+  },
+  "D:\\project\\mall\\mall-admin\\src\\main\\java\\com\\mall\\admin\\controller\\platform\\PlatformProductController.java": {
+    "mtime": 1777996302.1096542,
+    "hash": "b4fcdebf3417036765658b4630d17dd8"
+  },
+  "D:\\project\\mall\\mall-admin\\src\\main\\java\\com\\mall\\admin\\controller\\platform\\PlatformTenantController.java": {
+    "mtime": 1777996335.9370134,
+    "hash": "87cf87fbfddb9429537f5d98ec42e7a2"
+  },
+  "D:\\project\\mall\\mall-admin-web\\env.d.ts": {
+    "mtime": 1777482931.2683618,
+    "hash": "8cbfd5476645cbcda423992b553a2b0c"
+  },
+  "D:\\project\\mall\\mall-admin-web\\postcss.config.ts": {
+    "mtime": 1777482931.2841804,
+    "hash": "ef3ba2a81ba19f8ea5ddf625521e96f0"
+  },
+  "D:\\project\\mall\\mall-admin-web\\tailwind.config.ts": {
+    "mtime": 1777623429.516876,
+    "hash": "fdcdf4606d2c79d3959c4847a14befed"
+  },
+  "D:\\project\\mall\\mall-admin-web\\vite.config.ts": {
+    "mtime": 1777559517.9218965,
+    "hash": "e05b7c58e5f8eb9cf5d6e269f7aab273"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\App.vue": {
+    "mtime": 1777482950.5972934,
+    "hash": "a9bc124305db59a7dc9a2525a535f88b"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\main.ts": {
+    "mtime": 1777482950.5936992,
+    "hash": "7b3c131bb1f151744bc29a2a1a0977c2"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\api\\auth.ts": {
+    "mtime": 1777527863.1031013,
+    "hash": "bc44a2ecb94186dc803859ede7f175a3"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\api\\content.ts": {
+    "mtime": 1777527906.6694984,
+    "hash": "9e3c3a29f07071f207424c1201c2fc05"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\api\\member.ts": {
+    "mtime": 1777527889.731909,
+    "hash": "ad8aad52699aa44719a4d48ad3c6c394"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\api\\merchant-admin.ts": {
+    "mtime": 1777825275.4317877,
+    "hash": "0ae96aa1c07a9a8e78ab0433d2385253"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\api\\merchant-finance.ts": {
+    "mtime": 1777825480.3032556,
+    "hash": "93a191f83c357170da8a6293caef4c61"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\api\\notice.ts": {
+    "mtime": 1777623457.308862,
+    "hash": "2859da70a798cba734851aead03afa9e"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\api\\order.ts": {
+    "mtime": 1777892922.823898,
+    "hash": "177e02a59bab43552c665547b3b75dbc"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\api\\product.ts": {
+    "mtime": 1777892674.4545343,
+    "hash": "722c5a5798c48066ec3949278e288876"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\api\\statistics.ts": {
+    "mtime": 1777826472.1084564,
+    "hash": "eabde2fb936a2c43bac73d73de15d642"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\api\\system.ts": {
+    "mtime": 1777892563.389393,
+    "hash": "fc0a95716f3cc1d594ea820bf8de2dc4"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\api\\tenant.ts": {
+    "mtime": 1777825062.0260446,
+    "hash": "24fba82d3bf110884eb56082de42aba8"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\components\\ImageListUpload.vue": {
+    "mtime": 1777527972.1923654,
+    "hash": "4a0587e521c561fc242cb6b52f2e8b76"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\components\\ImageUpload.vue": {
+    "mtime": 1777527972.0498734,
+    "hash": "64ab1f4a230e21e94e145bb47f94d0e0"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\components\\RichTextEditor.vue": {
+    "mtime": 1777996196.6929443,
+    "hash": "09693aa923d451397008a836159f47ea"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\components\\StatusTag.vue": {
+    "mtime": 1777825352.3018308,
+    "hash": "84e29b82edab3d2259a7ce797c63aee8"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\layouts\\AdminLayout.vue": {
+    "mtime": 1777623429.5086603,
+    "hash": "0e7ad3eea8fce24e32f2e6c2f26bd6eb"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\router\\index.ts": {
+    "mtime": 1777996476.5222628,
+    "hash": "d61600a6c4a2cd24bdcef88058c5dedf"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\stores\\permission.ts": {
+    "mtime": 1777984031.8759308,
+    "hash": "2296de11b4b5ecbf25692a385cfcae23"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\stores\\user.ts": {
+    "mtime": 1777996307.836759,
+    "hash": "a87621ec602b0d48aa16396ff026d0ac"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\types\\wangeditor.d.ts": {
+    "mtime": 1777893242.3453152,
+    "hash": "29fb1adb080c818afe31c7cbc69d8211"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\utils\\request.ts": {
+    "mtime": 1777996242.82484,
+    "hash": "111f80b5db9a118d465bc6b1a6a3e8d9"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\views\\login\\index.vue": {
+    "mtime": 1777893313.1793847,
+    "hash": "d7760bc1b0453bc727a491c0813e8853"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\views\\merchant\\admin\\index.vue": {
+    "mtime": 1777825275.5182009,
+    "hash": "1fb8849095e19c31687f9bcd6587dd25"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\views\\merchant\\dashboard\\index.vue": {
+    "mtime": 1777826543.498133,
+    "hash": "50c98b57535e1fb3262349f89c9d2117"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\views\\merchant\\finance\\index.vue": {
+    "mtime": 1777826726.691259,
+    "hash": "be834e7a88bf8fb82bf7e5f334e1d128"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\views\\merchant\\order\\index.vue": {
+    "mtime": 1777893043.7877865,
+    "hash": "70521dd0421eb004fcc95027ea4bac34"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\views\\merchant\\product\\add.vue": {
+    "mtime": 1777892774.4625616,
+    "hash": "0022e192f3948cec1d3926305e3f393c"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\views\\merchant\\product\\list.vue": {
+    "mtime": 1777528442.0991223,
+    "hash": "3234fe7ead7bb38ad5291440adecbf5e"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\views\\merchant\\refund\\index.vue": {
+    "mtime": 1777826607.7782657,
+    "hash": "ec3c44d0f9f557043d2b5875d6fe9ba4"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\views\\merchant\\shop\\index.vue": {
+    "mtime": 1777825120.3607144,
+    "hash": "9024d17eb23b2838a4f9fcdf31bbb39e"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\views\\platform\\dashboard\\index.vue": {
+    "mtime": 1777623441.235109,
+    "hash": "e7ef4ac40a5454416d64e506ea267348"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\views\\platform\\member\\index.vue": {
+    "mtime": 1777623706.902644,
+    "hash": "75b284a822439399f43c5899ad053860"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\views\\platform\\merchant\\audit.vue": {
+    "mtime": 1777789673.414738,
+    "hash": "c7b7b1e2ee6a1d468b68e4b67f53146c"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\views\\platform\\merchant\\list.vue": {
+    "mtime": 1777794637.25313,
+    "hash": "adfc50e15dee0793bd07d834d012662c"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\views\\platform\\notice\\index.vue": {
+    "mtime": 1777623524.7511961,
+    "hash": "c424b1f53c7d4a6bbbc529df641a01be"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\views\\platform\\order\\index.vue": {
+    "mtime": 1777893139.3320212,
+    "hash": "efad2d6fb42119b5b7ed115bc1a91d1d"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\views\\platform\\product\\add.vue": {
+    "mtime": 1777892807.8584597,
+    "hash": "22814e8f57502b416e36fe0d5502adac"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\views\\platform\\product\\brand\\index.vue": {
+    "mtime": 1777794476.2384605,
+    "hash": "47eda1ff71c2f37c6c11c3dc17993f7c"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\views\\platform\\product\\category\\index.vue": {
+    "mtime": 1777794502.7009583,
+    "hash": "bb773be2cad163c8a03d423a7c95765b"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\views\\platform\\product\\list\\index.vue": {
+    "mtime": 1777528278.7345579,
+    "hash": "13fb14256b5509187776c0ba6b1b1eb5"
+  },
+  "D:\\project\\mall\\mall-admin-web\\src\\views\\platform\\system\\index.vue": {
+    "mtime": 1777528348.6295564,
+    "hash": "d62c9dde249b54c9ea4924fc33892973"
+  },
+  "D:\\project\\mall\\mall-api\\src\\main\\java\\com\\mall\\api\\MallApiApplication.java": {
+    "mtime": 1777483719.1893792,
+    "hash": "781711c2a2154ea74faf01e08ec67e3d"
+  },
+  "D:\\project\\mall\\mall-api\\src\\main\\java\\com\\mall\\api\\controller\\CommonFileController.java": {
+    "mtime": 1777996880.480207,
+    "hash": "bd6b2eb0e70e6390ba126fc46cea619d"
+  },
+  "D:\\project\\mall\\mall-api\\src\\main\\java\\com\\mall\\api\\controller\\CommonFreightController.java": {
+    "mtime": 1777996859.901726,
+    "hash": "34af6dfb91d8e376823017a6f1b577b3"
+  },
+  "D:\\project\\mall\\mall-api\\src\\main\\java\\com\\mall\\api\\controller\\CommonRegionController.java": {
+    "mtime": 1777996824.7687747,
+    "hash": "580c41c8aa8590d78039094cf758d051"
+  },
+  "D:\\project\\mall\\mall-api\\src\\main\\java\\com\\mall\\api\\controller\\CommonSmsController.java": {
+    "mtime": 1777996787.1127377,
+    "hash": "007c92e0fdb7cdbf26a17bc96d0bb449"
+  },
+  "D:\\project\\mall\\mall-api\\src\\main\\java\\com\\mall\\api\\controller\\HomeController.java": {
+    "mtime": 1777501823.0485137,
+    "hash": "181cffb017e7d3f8e0b4dc3add9a270c"
+  },
+  "D:\\project\\mall\\mall-api\\src\\main\\java\\com\\mall\\api\\controller\\MemberContentController.java": {
+    "mtime": 1777996963.6499896,
+    "hash": "261aba67a8fe909714c95cfd5abcd5aa"
+  },
+  "D:\\project\\mall\\mall-api\\src\\main\\java\\com\\mall\\api\\controller\\MemberPaymentController.java": {
+    "mtime": 1777996931.1400042,
+    "hash": "34b3023401bdccc42d96900cddb1fc7d"
+  },
+  "D:\\project\\mall\\mall-api\\src\\main\\java\\com\\mall\\api\\controller\\PaymentNotifyController.java": {
+    "mtime": 1777501823.0307176,
+    "hash": "4e4a17e03252a9929398d9f333d27639"
+  },
+  "D:\\project\\mall\\mall-api\\src\\main\\java\\com\\mall\\api\\controller\\member\\MemberAddressController.java": {
+    "mtime": 1777996513.432662,
+    "hash": "06d935d87d15302112a1a701163b986f"
+  },
+  "D:\\project\\mall\\mall-api\\src\\main\\java\\com\\mall\\api\\controller\\member\\MemberAuthController.java": {
+    "mtime": 1778000355.043844,
+    "hash": "d7e68c4102b6df89e4d475da090c2935"
+  },
+  "D:\\project\\mall\\mall-api\\src\\main\\java\\com\\mall\\api\\controller\\member\\MemberBankCardController.java": {
+    "mtime": 1777996659.0184102,
+    "hash": "04e03b8e7b625ed5cf7ca06dc4a80f63"
+  },
+  "D:\\project\\mall\\mall-api\\src\\main\\java\\com\\mall\\api\\controller\\member\\MemberCartController.java": {
+    "mtime": 1777996655.6473465,
+    "hash": "a0579268bfbd5d8f62810ad1fdd3311a"
+  },
+  "D:\\project\\mall\\mall-api\\src\\main\\java\\com\\mall\\api\\controller\\member\\MemberCollectController.java": {
+    "mtime": 1777996681.720817,
+    "hash": "6a8e670f7226d84770d6239c71f6a3d3"
+  },
+  "D:\\project\\mall\\mall-api\\src\\main\\java\\com\\mall\\api\\controller\\member\\MemberController.java": {
+    "mtime": 1777996602.9862075,
+    "hash": "7c46f0a795527753717342a111688ef3"
+  },
+  "D:\\project\\mall\\mall-api\\src\\main\\java\\com\\mall\\api\\controller\\member\\MemberCouponController.java": {
+    "mtime": 1777996586.3176646,
+    "hash": "246f4177a38f79b0fe7afeb3f432caee"
+  },
+  "D:\\project\\mall\\mall-api\\src\\main\\java\\com\\mall\\api\\controller\\member\\MemberFootprintController.java": {
+    "mtime": 1777996702.1223323,
+    "hash": "172661d686687a5b2e0fdbcc6404e52b"
+  },
+  "D:\\project\\mall\\mall-api\\src\\main\\java\\com\\mall\\api\\controller\\member\\MemberMessageController.java": {
+    "mtime": 1777996553.7303367,
+    "hash": "241ffe796ca5e1e8300e5025950ad2e4"
+  },
+  "D:\\project\\mall\\mall-api\\src\\main\\java\\com\\mall\\api\\controller\\member\\MemberOrderController.java": {
+    "mtime": 1777996753.3567588,
+    "hash": "fd29b8d4b4f8ee3dbf8a6ba890075240"
+  },
+  "D:\\project\\mall\\mall-api\\src\\main\\java\\com\\mall\\api\\controller\\member\\MemberProductController.java": {
+    "mtime": 1778025261.1954112,
+    "hash": "a32d89bb599eb9b9018738e1fb7f0185"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\base\\BaseEntity.java": {
+    "mtime": 1777483358.3326755,
+    "hash": "997e3621a1b2fbc099c893bd9b00f360"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\base\\GlobalExceptionHandler.java": {
+    "mtime": 1778025284.7103286,
+    "hash": "78c862f3dbd0406d414a0cea2c1f80a5"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\base\\JwtAuthenticationFilter.java": {
+    "mtime": 1777540506.9371412,
+    "hash": "2772479bd34223aa2048999622f07c13"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\base\\SecurityConfig.java": {
+    "mtime": 1778000038.8626468,
+    "hash": "910d74533aaba523242b2d25da1e5325"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\base\\TenantEntity.java": {
+    "mtime": 1777483358.3485737,
+    "hash": "aba87ea917b26af6f739fea1b096d897"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\base\\ValidationConfig.java": {
+    "mtime": 1777483689.5855699,
+    "hash": "99a8dbb28e6874147a17b87dad53e280"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\config\\AsyncConfig.java": {
+    "mtime": 1777999992.7215314,
+    "hash": "7abb15b57674ef9c3fa1f22938ab8c7c"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\config\\ContextCleanupListener.java": {
+    "mtime": 1777999992.7278721,
+    "hash": "9ab1c0be3d24f8eb3de474d755e88919"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\config\\ContextTaskDecorator.java": {
+    "mtime": 1777999992.7051976,
+    "hash": "ff3ad46e4cbe2d5527d0cec664740d87"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\config\\SafeLongDeserializer.java": {
+    "mtime": 1777794428.8355038,
+    "hash": "55306a8270a6e6db020e87ebb9304299"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\config\\SafeLongSerializer.java": {
+    "mtime": 1777793241.9965773,
+    "hash": "ef7308876ae6b3ac5886f8e47b9f6cef"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\config\\WebMvcConfig.java": {
+    "mtime": 1777984032.016415,
+    "hash": "c942079702b8464460ead88376227358"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\constant\\CommonConstant.java": {
+    "mtime": 1777483411.225841,
+    "hash": "10a4862356ca044292e32dcdb1a49aa3"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\constant\\RedisKeyConstant.java": {
+    "mtime": 1778000106.3777633,
+    "hash": "40266e4e6a4f85b238c5097eda3ee78d"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\constant\\TenantIgnore.java": {
+    "mtime": 1777483449.5301116,
+    "hash": "0e6da5298b76ba35c18e2a92f1e6cc1e"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\enums\\OrderStatusEnum.java": {
+    "mtime": 1777483385.109655,
+    "hash": "1430a180753fd10bf5008b9a449fd0c4"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\enums\\PaymentStatusEnum.java": {
+    "mtime": 1777483385.1146545,
+    "hash": "cb1517697a04ad1a7064fa098547a5a4"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\enums\\PayTypeEnum.java": {
+    "mtime": 1777484801.9618049,
+    "hash": "f2e3bb51bfc92256ad974fdac8086519"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\enums\\ProductStatusEnum.java": {
+    "mtime": 1777483385.1146545,
+    "hash": "923e45946a74f5fdcb1bac55f729f037"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\enums\\RefundStatusEnum.java": {
+    "mtime": 1777484810.7093644,
+    "hash": "ef14856d6c28ea6a2e36d85f8e3dd277"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\enums\\TenantStatusEnum.java": {
+    "mtime": 1777483385.1146545,
+    "hash": "7fab6194c2e9869473474b7eca719094"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\enums\\UserTypeEnum.java": {
+    "mtime": 1777483385.0975378,
+    "hash": "6465290e44335b9bf8b18fb190b4707e"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\exception\\AuthException.java": {
+    "mtime": 1777483385.0975378,
+    "hash": "18f47505b883ae68feb088b63d2b0af1"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\exception\\BusinessException.java": {
+    "mtime": 1777483385.0817392,
+    "hash": "5e1dffe12af930c578816cfa263dc45e"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\exception\\ParamException.java": {
+    "mtime": 1777483385.0883749,
+    "hash": "e449eaf2992dd94d989cf37d6ddf1f13"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\response\\PageResult.java": {
+    "mtime": 1777697403.5886142,
+    "hash": "bf4b5dc6986cef776286df873c08a48b"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\response\\R.java": {
+    "mtime": 1777483358.3485737,
+    "hash": "4d8a8e64b55277dbabfd39e4b6d1e96e"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\response\\ResultCode.java": {
+    "mtime": 1777483358.3643563,
+    "hash": "172d9736254812ae9f6aa9fba2cbf1d1"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\util\\HtmlSanitizeUtil.java": {
+    "mtime": 1777996075.3795054,
+    "hash": "2e82340719b47c5e36aaf9634154c540"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\util\\JwtUtil.java": {
+    "mtime": 1777540236.4675052,
+    "hash": "96329df4343f71c03949ba4c196ca56a"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\util\\PasswordUtil.java": {
+    "mtime": 1777483503.6989737,
+    "hash": "2fbd139c71228571639d1b84cc77e8b4"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\util\\RateLimitUtil.java": {
+    "mtime": 1778000138.3578832,
+    "hash": "07d4d6ba502d31a8da82f28f6672adcb"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\util\\SnowflakeIdUtil.java": {
+    "mtime": 1777483411.2576742,
+    "hash": "e0a1e7aabb763840e0898a2f052ac822"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\util\\TenantContext.java": {
+    "mtime": 1777483449.5173168,
+    "hash": "331dee88c7dd7c512b3f027ba9d939f5"
+  },
+  "D:\\project\\mall\\mall-common\\src\\main\\java\\com\\mall\\common\\util\\UserContext.java": {
+    "mtime": 1777484010.1613586,
+    "hash": "5b3245adbbda3e0d589d14b19e8e893d"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\config\\MybatisPlusConfig.java": {
+    "mtime": 1777483632.2368171,
+    "hash": "ab5c3e6d22e6ea8b93bbe780c9aa3dff"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\CartItemMapper.java": {
+    "mtime": 1777484925.9942892,
+    "hash": "b60995c1a0d73b5625fd8fc49b97eb68"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\ContentBannerMapper.java": {
+    "mtime": 1777484915.948243,
+    "hash": "3202789f5b6b22853c78a37e3d8a8707"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\ContentFloorMapper.java": {
+    "mtime": 1777484915.9538558,
+    "hash": "13cba9a13f5f6ebe213b228c08bacbb3"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\ContentNoticeMapper.java": {
+    "mtime": 1777621046.7231705,
+    "hash": "6271b96d8a5e10cc80a8291b9f2757f6"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\FreightTemplateMapper.java": {
+    "mtime": 1777484915.9538558,
+    "hash": "42571251278430945d969bf14a0bb350"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\MemberAddressMapper.java": {
+    "mtime": 1777484860.3308313,
+    "hash": "537fb71d355a61d3306543bbcd5d2c7c"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\MemberAuthMapper.java": {
+    "mtime": 1777484860.3308313,
+    "hash": "2c40c64461601d36530dad5fe4efc8e0"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\MemberBankCardMapper.java": {
+    "mtime": 1777654059.9910297,
+    "hash": "d0476cea7675967f4d5b53080f7a76d7"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\MemberCollectMapper.java": {
+    "mtime": 1777484926.0096343,
+    "hash": "de0665337063a542f14553484e68ae64"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\MemberCouponMapper.java": {
+    "mtime": 1777621046.7069108,
+    "hash": "4a1dfa783d95985600037572b9e56594"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\MemberFootprintMapper.java": {
+    "mtime": 1777484926.0272915,
+    "hash": "be48d289fca021f813e433f05cc23d29"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\MemberMapper.java": {
+    "mtime": 1777484860.324149,
+    "hash": "2754d70fe6081447c7e0f66ac9fe7f32"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\MemberMessageMapper.java": {
+    "mtime": 1777621046.7176828,
+    "hash": "aae66fb205175bd5280fcca80d2be6aa"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\OrderAddressMapper.java": {
+    "mtime": 1777484925.9934983,
+    "hash": "a80cda5f40294a88b5bc7b51b10c7a82"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\OrderItemMapper.java": {
+    "mtime": 1777484925.9815996,
+    "hash": "65e8d2e755707fec234e13708189a35d"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\OrderLogMapper.java": {
+    "mtime": 1777484925.9942892,
+    "hash": "266e0b2c52e2a5de02dfc4be127e5fd6"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\OrderMainMapper.java": {
+    "mtime": 1777484915.9538558,
+    "hash": "1c235901138d37dc187b0f8f83ad831c"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\OrderRefundMapper.java": {
+    "mtime": 1777484926.0096343,
+    "hash": "e635226b60b034b2cf4375ce31056747"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\PaymentRecordMapper.java": {
+    "mtime": 1777501281.6700773,
+    "hash": "88a0bc502bc893e138c40ee69788a7c4"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\PaymentRefundMapper.java": {
+    "mtime": 1777501281.6860337,
+    "hash": "1ec7f21cf0857e0e8f466c52e27749e8"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\ProductAttributeMapper.java": {
+    "mtime": 1777484897.6253994,
+    "hash": "f8a54c177c00883532d102462c483eb5"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\ProductAttributeValueMapper.java": {
+    "mtime": 1777484897.6314445,
+    "hash": "27874d384ed190b7863338be9332a26f"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\ProductBrandMapper.java": {
+    "mtime": 1777484897.5996604,
+    "hash": "2cab38fdacb9c1d6ab5c2f30ef575b23"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\ProductCategoryMapper.java": {
+    "mtime": 1777484897.5996604,
+    "hash": "5250e3179cfd4fda7ac00bc06c3ff488"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\ProductCommentMapper.java": {
+    "mtime": 1777484926.0272915,
+    "hash": "8f1a689fb3e830d68a0bcd4584fd8241"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\ProductImageMapper.java": {
+    "mtime": 1777484897.6217666,
+    "hash": "35951b4c05d0c0bf9530143e13382547"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\ProductSkuMapper.java": {
+    "mtime": 1777540629.0938907,
+    "hash": "11a22dd19d1c95592e8bc960582c9fd0"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\ProductSpuMapper.java": {
+    "mtime": 1777540629.1689148,
+    "hash": "698f1bdab52628c594cfc0d59280a24b"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\RegionMapper.java": {
+    "mtime": 1777484897.5936325,
+    "hash": "3f245c75b0b769caa9f3a89117e37bae"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\SmsCodeMapper.java": {
+    "mtime": 1777943727.3647165,
+    "hash": "4ec202018bb79cfa68f804c176f34526"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\SysAdminMapper.java": {
+    "mtime": 1777484860.3466506,
+    "hash": "a3b2caf7518dd8a3cbaa711cf4ae1cdb"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\SysConfigMapper.java": {
+    "mtime": 1777484897.590333,
+    "hash": "e46df75043fc1a3ed1f06c68a6831832"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\SysFileMapper.java": {
+    "mtime": 1777501281.7018037,
+    "hash": "cb1f0d1f4c3c9e2a33fcca9420d878c2"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\SysPermissionMapper.java": {
+    "mtime": 1777484897.5771494,
+    "hash": "a5fad654217373a44b83ea137818f223"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\SysRoleMapper.java": {
+    "mtime": 1777484897.5628116,
+    "hash": "987409fadff4fb29c671946647ec138a"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\SysRolePermissionMapper.java": {
+    "mtime": 1777484897.585075,
+    "hash": "a1beffd729869add37bc86637ce393de"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\TenantAdminMapper.java": {
+    "mtime": 1777484860.3308313,
+    "hash": "6b4031acf37a588bc9a41bcd1e311276"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\TenantApplyMapper.java": {
+    "mtime": 1777484860.3466506,
+    "hash": "6b76a74a25a65fc8b90d257d90d9fe0d"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\TenantCategoryMapper.java": {
+    "mtime": 1777996135.2391424,
+    "hash": "725d65d6a6cb9a5d6a6d0899f581b34a"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\TenantMapper.java": {
+    "mtime": 1777484860.3308313,
+    "hash": "bb43ca10294f78b4f47f06c07f0e0b2c"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\mapper\\TenantSettleMapper.java": {
+    "mtime": 1777484860.3466506,
+    "hash": "a01e015af504566219ce39ef0ff04640"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\tenant\\MallTenantLineHandler.java": {
+    "mtime": 1777944132.3516345,
+    "hash": "246bf2a42d34c3f5464e987780036a2a"
+  },
+  "D:\\project\\mall\\mall-dao\\src\\main\\java\\com\\mall\\dao\\tenant\\TenantSqlInterceptor.java": {
+    "mtime": 1777484181.9452503,
+    "hash": "b2d0f1a465f974919a03f349e2d5dbe5"
+  },
+  "D:\\project\\mall\\mall-job\\src\\main\\java\\com\\mall\\job\\MallJobApplication.java": {
+    "mtime": 1777483719.1966612,
+    "hash": "b3ab3f637fb8469218a9317db8292250"
+  },
+  "D:\\project\\mall\\mall-mobile\\vite.config.ts": {
+    "mtime": 1777903445.6908584,
+    "hash": "350e5ca357addf258eeafdb3c998d569"
+  },
+  "D:\\project\\mall\\mall-mobile\\scripts\\gen-tab-icons.js": {
+    "mtime": 1777943548.4114604,
+    "hash": "3e594aa675ae214e66b7cd1b0bc88bdf"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\App.vue": {
+    "mtime": 1777622266.618524,
+    "hash": "302cb2b08892a6e377b6840c809c37a8"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\main.ts": {
+    "mtime": 1777483190.5774074,
+    "hash": "9d573aca0f56533aeb4459377025cc77"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\api\\address.ts": {
+    "mtime": 1777957828.1277788,
+    "hash": "aea8ce5ab2cc9e40218233a211b36511"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\api\\bankcard.ts": {
+    "mtime": 1777949103.8802137,
+    "hash": "56387b8c12178ba0101bb87cdafba043"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\api\\cart.ts": {
+    "mtime": 1777949346.4287672,
+    "hash": "ee52360ca7429c487d4872a30333f028"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\api\\collect.ts": {
+    "mtime": 1777949218.0620444,
+    "hash": "7072405645aa0b4db5427921ee1761be"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\api\\coupon.ts": {
+    "mtime": 1777949233.742146,
+    "hash": "10a78c099ce1c46adfdae982818bab27"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\api\\footprint.ts": {
+    "mtime": 1777949195.4393654,
+    "hash": "a8e76ec94c470a427da429e26de8aae5"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\api\\home.ts": {
+    "mtime": 1777949299.5912452,
+    "hash": "757caaeed9585858c46025d4014aa00e"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\api\\message.ts": {
+    "mtime": 1777949274.6537962,
+    "hash": "6cf617d701bd25f3a678fd6ac37bda1b"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\api\\order.ts": {
+    "mtime": 1777949156.5203044,
+    "hash": "f7360e7166155b5bb1083e93b30829c7"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\api\\payment.ts": {
+    "mtime": 1777981093.5499022,
+    "hash": "8a78d7f15b831906fe594956b7cf7c98"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\api\\product.ts": {
+    "mtime": 1777949556.7539175,
+    "hash": "af15fa8e4e7160cd3c83267c86eb5b29"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\components\\Countdown.vue": {
+    "mtime": 1777621864.6906128,
+    "hash": "02a7aad8a8977677fc9df24200ce761b"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\components\\Empty.vue": {
+    "mtime": 1777529110.0534263,
+    "hash": "1405501a62012165ecc87108cf425a4e"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\components\\NoticeBar.vue": {
+    "mtime": 1777950317.384262,
+    "hash": "7d0a56993e6a430995114ab45aec4431"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\components\\ProductCard.vue": {
+    "mtime": 1777981232.8993354,
+    "hash": "191f52613b157d1b9dd41d0c8a6ff8fb"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\components\\RemixIcon.vue": {
+    "mtime": 1777905269.0544534,
+    "hash": "c21345da60b70420c0520f7d918a0813"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\components\\SkuSelector.vue": {
+    "mtime": 1777950280.168467,
+    "hash": "4a1ad0bb11f8e8f5aa0aa7c10a20b0e2"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\components\\TagBadge.vue": {
+    "mtime": 1777621864.6966114,
+    "hash": "9152b14a97fe640c8d831be8f4c4c915"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\pages\\cart\\index.vue": {
+    "mtime": 1777529524.098877,
+    "hash": "e28310965f33482ce14de33692d21db2"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\pages\\category\\index.vue": {
+    "mtime": 1777981329.834916,
+    "hash": "c6f97f8972b107879afe9a201036f3d2"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\pages\\index\\index.vue": {
+    "mtime": 1777981391.0399065,
+    "hash": "27653ce9794fa4bc217f6d01f4670008"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\pages\\login\\index.vue": {
+    "mtime": 1777943958.5149324,
+    "hash": "96cdb25ffb8fe304894e2d9f957403fe"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\pages\\login\\register.vue": {
+    "mtime": 1777950474.2955873,
+    "hash": "026b431643fd875170399b8d1b804e7d"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\pages\\member\\bankcard.vue": {
+    "mtime": 1777654835.0793545,
+    "hash": "2a20e98cccb47dfadec7d2b770e60c01"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\pages\\member\\collect.vue": {
+    "mtime": 1777654734.1737428,
+    "hash": "d07f256e848f2c0f9a13783981aec998"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\pages\\member\\footprint.vue": {
+    "mtime": 1777654768.1009512,
+    "hash": "6a659a4c2846a6af8560e592ac3359f3"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\pages\\message\\index.vue": {
+    "mtime": 1777906229.6622815,
+    "hash": "fb516641be97aa8e4a11119bc8a986f6"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\pages\\mine\\index.vue": {
+    "mtime": 1778046983.0819788,
+    "hash": "492d96e09832e4a0e8c377b352f8b53f"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\pages\\order\\address.vue": {
+    "mtime": 1777957921.4851277,
+    "hash": "8e61e74f267c93552f6d858f1885f089"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\pages\\order\\confirm.vue": {
+    "mtime": 1777949806.054443,
+    "hash": "86bf4b75145f547b09626206eb6200de"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\pages\\order\\detail.vue": {
+    "mtime": 1777654862.1177504,
+    "hash": "fa4373d37cb318816c1e3d31205ae69c"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\pages\\order\\index.vue": {
+    "mtime": 1778046978.5617356,
+    "hash": "289cb63f3aaecc7eaa511ea832ce627c"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\pages\\order\\payment.vue": {
+    "mtime": 1777981114.941837,
+    "hash": "1360b5b2ce38b05b98c311f8b4ec1f8c"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\pages\\product\\index.vue": {
+    "mtime": 1777996186.5195427,
+    "hash": "763dfb290fc6c282006958f002f96e2d"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\pages\\product\\list.vue": {
+    "mtime": 1777981371.7206688,
+    "hash": "1268a1c956b43f0b48fb7a3db109eeaa"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\pages\\search\\index.vue": {
+    "mtime": 1777981408.6041105,
+    "hash": "c3134d7585f37d6276c87e65d590b8d0"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\pages\\webview\\index.vue": {
+    "mtime": 1777906229.6877122,
+    "hash": "54b48277626d1235f8d622657405a3f2"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\stores\\cart.ts": {
+    "mtime": 1777950385.3672018,
+    "hash": "1e7227fb989c01e9596c1faa458cbb41"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\stores\\user.ts": {
+    "mtime": 1777996437.263201,
+    "hash": "427ba03510eb93cc25b67620141ea614"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\utils\\request.ts": {
+    "mtime": 1777948762.6204894,
+    "hash": "9bdde94acdc7b667d6c8fd21567cafd5"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\utils\\sanitize.ts": {
+    "mtime": 1777996149.6376424,
+    "hash": "16182562d87abc28dfd4bf9f76f728b6"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\dto\\BankCardAddDTO.java": {
+    "mtime": 1777653973.666548,
+    "hash": "c3fc9f376b7be8d5d4d5cd3d286a075f"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\dto\\BannerSaveDTO.java": {
+    "mtime": 1777484892.1294527,
+    "hash": "4a5d0d729ed64c25e419097a43bec885"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\dto\\CartAddDTO.java": {
+    "mtime": 1777484828.564324,
+    "hash": "a5c36746c3a91e0f791b87dbd27fff15"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\dto\\CommentCreateDTO.java": {
+    "mtime": 1777996221.6136167,
+    "hash": "23fee373ea08033b05e54224af65b480"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\dto\\ConfigUpdateDTO.java": {
+    "mtime": 1777484892.1448824,
+    "hash": "5980470fb01f8e48f77fde42a7091568"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\dto\\FloorSaveDTO.java": {
+    "mtime": 1777484892.1423745,
+    "hash": "a170a19d8b8893b3345acde99b248ac5"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\dto\\FreightCalculateDTO.java": {
+    "mtime": 1777484892.1294527,
+    "hash": "8ffb39039f1f710932ca761252f24145"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\dto\\FreightTemplateSaveDTO.java": {
+    "mtime": 1777484892.1448824,
+    "hash": "ed6712015c51570ae812ec5cf0957b1e"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\dto\\MemberLoginDTO.java": {
+    "mtime": 1777484753.4989004,
+    "hash": "2b6c7e86d36556290e846d801d8450aa"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\dto\\MemberRegisterDTO.java": {
+    "mtime": 1777484753.4914713,
+    "hash": "68b78639237692efe660ed4e3696ae85"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\dto\\OrderCreateDTO.java": {
+    "mtime": 1777484828.5484912,
+    "hash": "fd6237982b9ef4bab28f5aaca8e7587c"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\dto\\OrderQueryDTO.java": {
+    "mtime": 1777484828.5691373,
+    "hash": "e2638c40f6dddba9f1fd3d23a7f3db09"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\dto\\PhoneLoginDTO.java": {
+    "mtime": 1777954469.512942,
+    "hash": "5d9ffc255fb844ab06d2c6aabeef63c2"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\dto\\RefundApplyDTO.java": {
+    "mtime": 1777484828.574519,
+    "hash": "5769c4544e402bac882d8cee84b3cf94"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\dto\\ShopUpdateDTO.java": {
+    "mtime": 1777825029.4111068,
+    "hash": "f18f97e986ccfaa6baca0796f9bb03bf"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\dto\\SpuCreateDTO.java": {
+    "mtime": 1777821704.2834494,
+    "hash": "2ec54d68088f430ce062744c8e0d5500"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\dto\\SpuQueryDTO.java": {
+    "mtime": 1777484798.9412773,
+    "hash": "5c4ee735b7ce395835e494bc1fd27fb5"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\dto\\SubAdminCreateDTO.java": {
+    "mtime": 1777825209.9477992,
+    "hash": "a6a4fd3f5a64c7e6bf2729d8f6075026"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\dto\\SubAdminUpdateDTO.java": {
+    "mtime": 1777825209.996821,
+    "hash": "8900c878a77d196abfb60453adef7c98"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\dto\\TenantApplyDTO.java": {
+    "mtime": 1777484753.5098398,
+    "hash": "8a61c56fe2c5b4f5e060b93256edae1f"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\dto\\TenantCategoryDTO.java": {
+    "mtime": 1777996135.2441902,
+    "hash": "728057a78d4c35df1ae3a77bab004573"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\dto\\WechatLoginDTO.java": {
+    "mtime": 1777484753.4989004,
+    "hash": "1421eaecff627ffc55934ae55e5b6226"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\dto\\WithdrawDTO.java": {
+    "mtime": 1777825458.0303018,
+    "hash": "66b64f6ad4e112415c5fb74989b215f5"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\CartItem.java": {
+    "mtime": 1777484712.067635,
+    "hash": "2813c0e32d24f2179deb56ed67c59efa"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\ContentBanner.java": {
+    "mtime": 1777620848.3708186,
+    "hash": "fe9f0564567dac7126694135598dedbd"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\ContentFloor.java": {
+    "mtime": 1777484755.9668243,
+    "hash": "8444b9b957cb692d46c2a757a9e18b92"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\ContentNotice.java": {
+    "mtime": 1777620744.102016,
+    "hash": "761a7812ca918c7ae6fa76611cd56d72"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\FreightTemplate.java": {
+    "mtime": 1777484755.9668243,
+    "hash": "c6cf0da7a380fae1f05c12d3a825f87e"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\Member.java": {
+    "mtime": 1777620771.5049195,
+    "hash": "3bcb9012cf1c406fd1d58f32723cbced"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\MemberAddress.java": {
+    "mtime": 1777654101.8229487,
+    "hash": "d53996dd7bd869d69144f8ff4ff43898"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\MemberAuth.java": {
+    "mtime": 1777484625.1190484,
+    "hash": "bc1203cdd218b6937186b8e57253cd03"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\MemberBankCard.java": {
+    "mtime": 1777653973.6080103,
+    "hash": "af13c706d89d4ff7cbd98cfad0d1d23f"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\MemberCollect.java": {
+    "mtime": 1777654101.8503702,
+    "hash": "9e9913cd2948aab2501fafeab0c15ca2"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\MemberCoupon.java": {
+    "mtime": 1777620744.0906935,
+    "hash": "84c412d6c200fe84f5388f710f9e6211"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\MemberFootprint.java": {
+    "mtime": 1777484712.0728157,
+    "hash": "59785cb4f04da891e2a9d193ba1da98b"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\MemberMessage.java": {
+    "mtime": 1777620744.0972683,
+    "hash": "0265a4ba8e811e97a51f50da042c69ce"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\OrderAddress.java": {
+    "mtime": 1777484712.0612874,
+    "hash": "a79b527f2136829be114a5ceac22e895"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\OrderItem.java": {
+    "mtime": 1777484712.0521984,
+    "hash": "d41c76a6fab1dd4ae4bd0729cd102838"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\OrderLog.java": {
+    "mtime": 1777484712.0659409,
+    "hash": "f5c403a77fe062a01562d1c1205a8ff2"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\OrderMain.java": {
+    "mtime": 1777654101.8747277,
+    "hash": "e8f108c679dbdf2f0e3fa6a7963e8268"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\OrderRefund.java": {
+    "mtime": 1777996770.5295699,
+    "hash": "bf45e3a52eb90f4a732bc8eda62c3534"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\PaymentRecord.java": {
+    "mtime": 1777484836.5870316,
+    "hash": "3e0c3998821408216f4594cd64c1602c"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\PaymentRefund.java": {
+    "mtime": 1777484850.9812014,
+    "hash": "9dd7e98a440e6d56576f3519a5060628"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\ProductAttribute.java": {
+    "mtime": 1777484675.1406,
+    "hash": "25d6b06c448c504ed02ff5bca5d9a0a0"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\ProductAttributeValue.java": {
+    "mtime": 1777484675.1460629,
+    "hash": "cb5d13ea0a3d85bb216d7359bd4e5bb8"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\ProductBrand.java": {
+    "mtime": 1777484675.1141894,
+    "hash": "be34875b82826108b695cf6350b4fdf7"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\ProductCategory.java": {
+    "mtime": 1777484675.1064992,
+    "hash": "0ecdb244fd44dd7a7709218ca3c459c4"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\ProductComment.java": {
+    "mtime": 1777620848.365819,
+    "hash": "fced8c98c9e31054f3d19fb5d2b2b817"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\ProductImage.java": {
+    "mtime": 1777484675.1347804,
+    "hash": "34aeaa4affb5454b096212020062e75e"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\ProductSku.java": {
+    "mtime": 1777484675.129017,
+    "hash": "e16ce72488ac75eb7ad2b21c28e7af63"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\ProductSpu.java": {
+    "mtime": 1777620848.3539388,
+    "hash": "52f8cdfb3a217c6c31b324da01b23309"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\Region.java": {
+    "mtime": 1777484830.3111837,
+    "hash": "ba4f47b4587a4ce0d66d6695c528ef49"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\SmsCode.java": {
+    "mtime": 1777943727.3323367,
+    "hash": "1c3217ac0d1daad3e60c7773f05b86ad"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\SysAdmin.java": {
+    "mtime": 1777484649.511523,
+    "hash": "f262807c66e5d78bb5f9e70d1e21015d"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\SysConfig.java": {
+    "mtime": 1777484830.32684,
+    "hash": "c673d7f5cf8287ca20d0f5616450ddc8"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\SysFile.java": {
+    "mtime": 1777484860.0461133,
+    "hash": "9e0fd3a69ccf6a3030595aef270377d6"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\SysPermission.java": {
+    "mtime": 1777484649.5204613,
+    "hash": "3e40310f92affebebef7ae97c418e3c1"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\SysRole.java": {
+    "mtime": 1777484649.5179448,
+    "hash": "1fc18365442f7619e785286f45124f06"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\SysRolePermission.java": {
+    "mtime": 1777484649.5265803,
+    "hash": "a4cabbd9dcf0bcf0a0e5364daff73f5c"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\Tenant.java": {
+    "mtime": 1777620848.3608167,
+    "hash": "4875a14f12c6bbd181deda8ca487e291"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\TenantAdmin.java": {
+    "mtime": 1777824991.5236497,
+    "hash": "c5f75b4e7c649191333a4db949aa4741"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\TenantApply.java": {
+    "mtime": 1777484625.1417656,
+    "hash": "c1912cebb7b6042fda3b07b368178b9b"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\TenantCategory.java": {
+    "mtime": 1777996135.231401,
+    "hash": "0dac99a7e860def2475ef628e23d0d98"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\entity\\TenantSettle.java": {
+    "mtime": 1777484649.5020561,
+    "hash": "528e2c923fd64bba0dd7e5162b41efb4"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\BalanceVO.java": {
+    "mtime": 1777825457.919731,
+    "hash": "9bfca247d514d07416bb3f47ea4e30e9"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\BankCardVO.java": {
+    "mtime": 1777653973.6307664,
+    "hash": "0fd5fb5fb255a92d4f1dc60fbf255d1a"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\BannerVO.java": {
+    "mtime": 1777484858.708031,
+    "hash": "34111c897f2249a184428ceb06f7a00b"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\CartGroupVO.java": {
+    "mtime": 1777501019.580675,
+    "hash": "d507b81fc8d372d9fb3b1455fcf7af9c"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\CartVO.java": {
+    "mtime": 1777501019.6143358,
+    "hash": "e82111199418d53b9879e0f8664d248b"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\CategoryTreeVO.java": {
+    "mtime": 1777484798.9452915,
+    "hash": "539eafecd37648365db8182187a58e13"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\CommentSummaryVO.java": {
+    "mtime": 1777620744.112539,
+    "hash": "f29e9bbabebe2f04518167758b5dbc1f"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\ConfigVO.java": {
+    "mtime": 1777484858.7400403,
+    "hash": "c747b514380f9ccd63ad78a5b9facde9"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\FloorVO.java": {
+    "mtime": 1777484858.7239702,
+    "hash": "91f4c4c8272a4c3bfb47f24b1258eb08"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\FreightVO.java": {
+    "mtime": 1777484858.7400403,
+    "hash": "1d7ffb7562b42855a3495d36f32b53d7"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\HomeVO.java": {
+    "mtime": 1777620804.389376,
+    "hash": "14a2cf0cc38c44036984914b4d66f42d"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\LoginVO.java": {
+    "mtime": 1777484753.5144184,
+    "hash": "705ac3930fbc0eac268cfe059efe3b1d"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\MemberAddressVO.java": {
+    "mtime": 1777654133.9721413,
+    "hash": "bc98f33bbf0aa757da20b8ec0544e5d6"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\MemberAssetVO.java": {
+    "mtime": 1777620744.1076007,
+    "hash": "fbe961582c0e0e6447b9bb1d464048ea"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\MemberVO.java": {
+    "mtime": 1777620804.352765,
+    "hash": "e80c9cf4238df843fbe3b89f3492f4c4"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\MerchantOverviewVO.java": {
+    "mtime": 1777484858.7400403,
+    "hash": "5a9c265f1273615f5fba477e0045f71f"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\MessageVO.java": {
+    "mtime": 1777620744.1292212,
+    "hash": "1b16ce853d5c993f74adafa6e82fd4bf"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\NoticeVO.java": {
+    "mtime": 1777620744.1236866,
+    "hash": "4fd8af3076b88dd21d7500dfd8d5ee05"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\OrderLogisticsVO.java": {
+    "mtime": 1777653973.6457016,
+    "hash": "4dbf5085d8f18780f8cec6cd36a44b06"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\OrderMainVO.java": {
+    "mtime": 1777654134.0040753,
+    "hash": "a002998f268cadaff3bfa422f7260830"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\PlatformOverviewVO.java": {
+    "mtime": 1777484858.7239702,
+    "hash": "fb85950ff9ca1567a035ac2e0310b062"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\ProductRankVO.java": {
+    "mtime": 1777826327.46753,
+    "hash": "2344b5043170c48517d83b8646b06637"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\QuickEntryVO.java": {
+    "mtime": 1777620744.118014,
+    "hash": "73140fea991280ed21a3f0b94c144519"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\RegionVO.java": {
+    "mtime": 1777484858.7239702,
+    "hash": "40ab3c6fa07f7f6d9745239d08bb5d14"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\SpuDetailVO.java": {
+    "mtime": 1777620804.376485,
+    "hash": "4932db0257b9b02dc4e855384d560a94"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\SpuVO.java": {
+    "mtime": 1777620804.363764,
+    "hash": "f4d005f47e93f5f028543a586cae55ff"
+  },
+  "D:\\project\\mall\\mall-model\\src\\main\\java\\com\\mall\\model\\vo\\TrendDataVO.java": {
+    "mtime": 1777826327.4456646,
+    "hash": "e547ea3d3c9fb7e4ff379d1b37af306d"
+  },
+  "D:\\project\\mall\\mall-pc\\app.vue": {
+    "mtime": 1777482675.9655282,
+    "hash": "3dcafb3fdecdb93a2be5b8d338bf407e"
+  },
+  "D:\\project\\mall\\mall-pc\\nuxt.config.ts": {
+    "mtime": 1777504821.126439,
+    "hash": "ea50db42abc9a22ce50206725e9b2b7a"
+  },
+  "D:\\project\\mall\\mall-pc\\tailwind.config.ts": {
+    "mtime": 1777623452.6403172,
+    "hash": "291b51f9d9802a6f088d86f8ec1a9b7d"
+  },
+  "D:\\project\\mall\\mall-pc\\components\\AddressModal.vue": {
+    "mtime": 1777655320.918867,
+    "hash": "11b4b667e714becc84dff6ea151a4fdd"
+  },
+  "D:\\project\\mall\\mall-pc\\components\\MemberSidebar.vue": {
+    "mtime": 1777655277.6894393,
+    "hash": "5b688f011311224d384c2eb23efd4912"
+  },
+  "D:\\project\\mall\\mall-pc\\components\\ProductCard.vue": {
+    "mtime": 1777623599.2323136,
+    "hash": "5bca4db0ccfccfeb53ad75b4bcf11464"
+  },
+  "D:\\project\\mall\\mall-pc\\composables\\types.ts": {
+    "mtime": 1777655247.6117952,
+    "hash": "27cae6e061905eefc30f0097d9242f8e"
+  },
+  "D:\\project\\mall\\mall-pc\\composables\\useApi.ts": {
+    "mtime": 1777504894.1521287,
+    "hash": "c57c297fb51ce126fd5119fa561f2bce"
+  },
+  "D:\\project\\mall\\mall-pc\\composables\\useRequest.ts": {
+    "mtime": 1777996329.1372988,
+    "hash": "1699c070f0ed8ffc788f772eef2613ed"
+  },
+  "D:\\project\\mall\\mall-pc\\layouts\\blank.vue": {
+    "mtime": 1777505872.7281432,
+    "hash": "4b7d197499750e314e0440674ec5eb12"
+  },
+  "D:\\project\\mall\\mall-pc\\layouts\\default.vue": {
+    "mtime": 1777505864.493039,
+    "hash": "3161db4fbfaed02145c835365cd4501f"
+  },
+  "D:\\project\\mall\\mall-pc\\pages\\index.vue": {
+    "mtime": 1777635678.5281324,
+    "hash": "85ccd5d01cc29c74bcb58e3a82c22399"
+  },
+  "D:\\project\\mall\\mall-pc\\pages\\login.vue": {
+    "mtime": 1777655465.9158952,
+    "hash": "4be131a9b349cd3c5e9ba6fa46dc5ac8"
+  },
+  "D:\\project\\mall\\mall-pc\\pages\\register.vue": {
+    "mtime": 1777505736.4124577,
+    "hash": "8cdb58c0e20fea7f63cbc355554b209f"
+  },
+  "D:\\project\\mall\\mall-pc\\pages\\search.vue": {
+    "mtime": 1777505801.9053416,
+    "hash": "8a43947ea6a86002741c2a70e13c28a0"
+  },
+  "D:\\project\\mall\\mall-pc\\pages\\cart\\index.vue": {
+    "mtime": 1777623528.640448,
+    "hash": "e024eaf65c0393bb2e5ada1c9ce66aec"
+  },
+  "D:\\project\\mall\\mall-pc\\pages\\category\\index.vue": {
+    "mtime": 1777505075.549872,
+    "hash": "b7037ad180e2e49102355be3a12c38f6"
+  },
+  "D:\\project\\mall\\mall-pc\\pages\\category\\[id].vue": {
+    "mtime": 1777505106.8702989,
+    "hash": "34f7998c1eca3a4c21548975db39d0fc"
+  },
+  "D:\\project\\mall\\mall-pc\\pages\\member\\address.vue": {
+    "mtime": 1777655504.5912519,
+    "hash": "0ab548ae95f96189a82abfeffd179e73"
+  },
+  "D:\\project\\mall\\mall-pc\\pages\\member\\bankcard.vue": {
+    "mtime": 1777656292.5412612,
+    "hash": "776932a07e6f92a6b8444c5196cf39f9"
+  },
+  "D:\\project\\mall\\mall-pc\\pages\\member\\favorites.vue": {
+    "mtime": 1777623528.6910486,
+    "hash": "1cef3647038c445aaae563141ab83d57"
+  },
+  "D:\\project\\mall\\mall-pc\\pages\\member\\footprint.vue": {
+    "mtime": 1777655550.835048,
+    "hash": "b13d8851e29ebc1405f7af1545c01fdb"
+  },
+  "D:\\project\\mall\\mall-pc\\pages\\member\\index.vue": {
+    "mtime": 1777635997.5137434,
+    "hash": "13bebe095138135749d78295fc1b4b51"
+  },
+  "D:\\project\\mall\\mall-pc\\pages\\member\\order.vue": {
+    "mtime": 1777623528.6839933,
+    "hash": "ca8a06e8d13c31c93eef7bc83fca1c45"
+  },
+  "D:\\project\\mall\\mall-pc\\pages\\member\\review.vue": {
+    "mtime": 1777505645.9400578,
+    "hash": "c026f0d231361f0338d2dadee42c4c95"
+  },
+  "D:\\project\\mall\\mall-pc\\pages\\order\\confirm.vue": {
+    "mtime": 1777655449.3731449,
+    "hash": "19991388bf139f3213ce16e498703a75"
+  },
+  "D:\\project\\mall\\mall-pc\\pages\\order\\detail.vue": {
+    "mtime": 1777656292.5781622,
+    "hash": "e75de1271ad19dce36747b246d984280"
+  },
+  "D:\\project\\mall\\mall-pc\\pages\\order\\list.vue": {
+    "mtime": 1777656443.5091126,
+    "hash": "c6b442dc4bd19fd58844e5faf9d1f724"
+  },
+  "D:\\project\\mall\\mall-pc\\pages\\order\\payment.vue": {
+    "mtime": 1777623528.6624115,
+    "hash": "c21bde8fdf19049506b4c14708ba6988"
+  },
+  "D:\\project\\mall\\mall-pc\\pages\\product\\index.vue": {
+    "mtime": 1777505153.1535106,
+    "hash": "38011019b35775ad2933341e63cf30ee"
+  },
+  "D:\\project\\mall\\mall-pc\\pages\\product\\[id].vue": {
+    "mtime": 1777996169.6701815,
+    "hash": "baf460dba11f9121cf93ed5d83f96fe1"
+  },
+  "D:\\project\\mall\\mall-pc\\plugins\\hydrate.client.ts": {
+    "mtime": 1777504900.1686578,
+    "hash": "b682fdd32b8d11153c84ac0f10e02983"
+  },
+  "D:\\project\\mall\\mall-pc\\stores\\cart.ts": {
+    "mtime": 1777504949.956139,
+    "hash": "864505835b13ab05f2a7c6ee582c92ed"
+  },
+  "D:\\project\\mall\\mall-pc\\stores\\user.ts": {
+    "mtime": 1777996339.0088682,
+    "hash": "e1d0b658acd2db26e8640ac97510c090"
+  },
+  "D:\\project\\mall\\mall-pc\\utils\\sanitize.ts": {
+    "mtime": 1777996149.633314,
+    "hash": "16182562d87abc28dfd4bf9f76f728b6"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\config\\MinioConfig.java": {
+    "mtime": 1777894365.6875827,
+    "hash": "9848fc4eba01e257ba4e48006ea09132"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\config\\RabbitMQConfig.java": {
+    "mtime": 1777501502.8143508,
+    "hash": "db6c3e713f49d4b89dd2df673573d759"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\content\\BannerService.java": {
+    "mtime": 1777501626.3098085,
+    "hash": "7658118d4ba68d3b439344e985620af6"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\content\\FileService.java": {
+    "mtime": 1778000128.0137234,
+    "hash": "c5c31e3da1477a4e7bcab0a45c8cbbf8"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\content\\FloorService.java": {
+    "mtime": 1777501626.3098085,
+    "hash": "b9cf2f96dfd58e072d30f729715d393f"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\content\\HomeService.java": {
+    "mtime": 1777621170.062066,
+    "hash": "c643eeb6a9fd1d8904686fb5f899e22b"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\content\\NoticeService.java": {
+    "mtime": 1777621098.6248276,
+    "hash": "dee07a41293e5abd9e4f30a521d1101c"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\content\\SmsService.java": {
+    "mtime": 1777997084.2076347,
+    "hash": "a3e7cfe21b680e5d69dc7e9cda65c190"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\mq\\consumer\\OrderTimeoutConsumer.java": {
+    "mtime": 1778000326.4211695,
+    "hash": "a140aa11299b394f212d2d1768f1f424"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\mq\\consumer\\PaySuccessConsumer.java": {
+    "mtime": 1778000227.4376514,
+    "hash": "d846e2295c90e923b9afac13fb8925e1"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\mq\\producer\\OrderMessageProducer.java": {
+    "mtime": 1777501502.8143508,
+    "hash": "bfa868a3521c30a921b0a3d7a50c42d0"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\mq\\producer\\PaymentMessageProducer.java": {
+    "mtime": 1777501502.8304362,
+    "hash": "0a852bca41e3273f3dd7a4881b123a4b"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\order\\CartService.java": {
+    "mtime": 1777996633.5994973,
+    "hash": "d450ee1808ffa42abe3045261f26fe88"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\order\\OrderRefundService.java": {
+    "mtime": 1777996832.9925444,
+    "hash": "5a58609e7abb694b662690ddadcab068"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\order\\OrderService.java": {
+    "mtime": 1777996933.0436068,
+    "hash": "e1f537a73eb52ff4dd091e2d3387c025"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\order\\OrderStateMachine.java": {
+    "mtime": 1777501589.2094429,
+    "hash": "cd3b6c37c263f6ef377750dab1a401ef"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\payment\\AliPayStrategy.java": {
+    "mtime": 1777501363.6644893,
+    "hash": "7f2d1e38041f54a96b7a88fd64f2d417"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\payment\\BalancePayStrategy.java": {
+    "mtime": 1777501363.6718676,
+    "hash": "7df4be9c4e309c855d3bdd9681822233"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\payment\\PaymentFactory.java": {
+    "mtime": 1777501452.4029615,
+    "hash": "bc7e53ff0bc0e7c5401b90a1624b613b"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\payment\\PaymentService.java": {
+    "mtime": 1778000044.297185,
+    "hash": "a651c486881131df0d041717ae5a75b9"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\payment\\PayStrategy.java": {
+    "mtime": 1777501363.6453774,
+    "hash": "cfc3993c8ce29b47a1f81c5f6826c0a9"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\payment\\RefundService.java": {
+    "mtime": 1777996996.8159587,
+    "hash": "ce06f8be7953e5270db834a4b7fa7941"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\payment\\WechatPayStrategy.java": {
+    "mtime": 1777501363.6558266,
+    "hash": "fd38f620912acbc95511cf08106e5f68"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\product\\ProductCategoryService.java": {
+    "mtime": 1777789601.7457695,
+    "hash": "90567b9010c0eeacdb0563b089fd2cbe"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\product\\ProductSpuService.java": {
+    "mtime": 1777996341.9701,
+    "hash": "31e481d8d8a36329378372efcba32fe3"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\product\\StockService.java": {
+    "mtime": 1777540653.4671326,
+    "hash": "af1507fb793dd6a0345cd8a48838410f"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\sms\\SmsCodeService.java": {
+    "mtime": 1777943784.819857,
+    "hash": "c7d4d26f8001e5eebec961fc3a889bb1"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\system\\FreightService.java": {
+    "mtime": 1777501727.680283,
+    "hash": "b3f165585a7fed856ead3f4fcb0537a7"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\system\\RegionService.java": {
+    "mtime": 1777501727.663258,
+    "hash": "8fbf030448714e83b652a4d6069bfe39"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\system\\StatisticsService.java": {
+    "mtime": 1777826406.0512455,
+    "hash": "4ac6762f81cd3c969a46093b321c5210"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\system\\SysConfigService.java": {
+    "mtime": 1777501727.680283,
+    "hash": "bf21f0c425aa7c86c366a9c78383e775"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\user\\AuthService.java": {
+    "mtime": 1778000417.0505881,
+    "hash": "4a4397864cbc49ccf51e7d236492f050"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\user\\MemberBankCardService.java": {
+    "mtime": 1777654060.0104215,
+    "hash": "f940471e250e88607e45191a1feece38"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\user\\MemberCouponService.java": {
+    "mtime": 1777621098.6384704,
+    "hash": "4b73038fcc84acea0f05916addc0719b"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\user\\MemberMessageService.java": {
+    "mtime": 1777621098.632466,
+    "hash": "f568a7b882859003dd45202ec2da7d5f"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\user\\MemberService.java": {
+    "mtime": 1777958095.5910904,
+    "hash": "5ff87e8b47f27d73c68af36d3840f329"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\user\\SysAdminService.java": {
+    "mtime": 1777984032.8677063,
+    "hash": "4eaf108e77de8bc4d0af8af1ff8beb11"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\user\\TenantCategoryService.java": {
+    "mtime": 1777996158.0853486,
+    "hash": "141c15e01f7ad8d2ee4824a8694c83bd"
+  },
+  "D:\\project\\mall\\mall-service\\src\\main\\java\\com\\mall\\service\\user\\TenantService.java": {
+    "mtime": 1777793515.475978,
+    "hash": "08664040ae2f39f4edaec07e1f96cfef"
+  },
+  "D:\\project\\mall\\mall-service\\src\\test\\java\\com\\mall\\service\\content\\SmsServiceTest.java": {
+    "mtime": 1777997519.5998814,
+    "hash": "9b6c20e2da5797ff9c0d96b37fee72ac"
+  },
+  "D:\\project\\mall\\mall-service\\src\\test\\java\\com\\mall\\service\\order\\CartServiceTest.java": {
+    "mtime": 1777996721.8181345,
+    "hash": "1676599e6364c60a4c5abf6fe294b768"
+  },
+  "D:\\project\\mall\\mall-service\\src\\test\\java\\com\\mall\\service\\order\\OrderServiceTest.java": {
+    "mtime": 1777998177.8235953,
+    "hash": "83d61d700e7146cb3ee9d611280f85dd"
+  },
+  "D:\\project\\mall\\mall-service\\src\\test\\java\\com\\mall\\service\\order\\OrderStateMachineTest.java": {
+    "mtime": 1777539308.2624407,
+    "hash": "e82236d1cca7555b0ae88e9739478b38"
+  },
+  "D:\\project\\mall\\mall-service\\src\\test\\java\\com\\mall\\service\\payment\\BalancePayStrategyTest.java": {
+    "mtime": 1777539229.0025342,
+    "hash": "1d91277e46aeaa8015257bdc4235d115"
+  },
+  "D:\\project\\mall\\mall-service\\src\\test\\java\\com\\mall\\service\\payment\\PaymentServiceTest.java": {
+    "mtime": 1777999318.8190703,
+    "hash": "78721504fc5f540e5d958216cc14d5cc"
+  },
+  "D:\\project\\mall\\mall-service\\src\\test\\java\\com\\mall\\service\\product\\StockServiceTest.java": {
+    "mtime": 1777540696.796529,
+    "hash": "5f34b95022cc7dda94c30c0e6559a914"
+  },
+  "D:\\project\\mall\\mall-service\\src\\test\\java\\com\\mall\\service\\user\\AuthServiceTest.java": {
+    "mtime": 1778000667.9108667,
+    "hash": "3848d48012566de2d2e32397b01c9153"
+  },
+  "D:\\project\\mall\\scripts\\init_minio_demo.py": {
+    "mtime": 1777692310.6057954,
+    "hash": "d0c978a047d0c3b722c17f8817b6ca95"
+  },
+  "D:\\project\\mall\\AGENTS.md": {
+    "mtime": 1778063059.6258788,
+    "hash": "2ed67c68f28bc1ef95ac24167431d7e8"
+  },
+  "D:\\project\\mall\\CLAUDE.md": {
+    "mtime": 1778060051.169825,
+    "hash": "0749319a0dbb1107c3a41c33d22081fc"
+  },
+  "D:\\project\\mall\\docker-compose.yml": {
+    "mtime": 1777996114.7852578,
+    "hash": "18d8bb72eb97819784a559082b88adac"
+  },
+  "D:\\project\\mall\\README.md": {
+    "mtime": 1778048242.506519,
+    "hash": "0872f86feac6ed6f5ca002a5f0227e7f"
+  },
+  "D:\\project\\mall\\\u4e34\u65f6\u5ffd\u7565.txt": {
+    "mtime": 1778059513.4636924,
+    "hash": "e680ffb628bc70c198d806da8a643eda"
+  },
+  "D:\\project\\mall\\docs\\00-\u9879\u76ee\u603b\u4f53\u89c4\u5212.md": {
+    "mtime": 1777620349.3000753,
+    "hash": "c0ca1eddd8609a096a787ab1806855d4"
+  },
+  "D:\\project\\mall\\docs\\01-\u7b2c\u4e00\u671f-MVP\u95ed\u73af.md": {
+    "mtime": 1777480584.2447612,
+    "hash": "ad167cd2c19824ee60e002bac75b0805"
+  },
+  "D:\\project\\mall\\docs\\02-\u7b2c\u4e8c\u671f-\u901a\u7528\u529f\u80fd.md": {
+    "mtime": 1777480659.5881355,
+    "hash": "63100ba5e3d6c10c9262d2ce09ecb041"
+  },
+  "D:\\project\\mall\\docs\\03-\u7b2c\u4e09\u671f-\u7279\u8272\u529f\u80fd.md": {
+    "mtime": 1777480732.257043,
+    "hash": "4db1ce8a8767d7fa429eb4b37e4751fd"
+  },
+  "D:\\project\\mall\\docs\\04-\u7b2c\u56db\u671f-\u8fd0\u8425\u5347\u7ea7.md": {
+    "mtime": 1777480798.3490477,
+    "hash": "8650068775b80792440626ba76bb8f76"
+  },
+  "D:\\project\\mall\\docs\\05-\u7b2c\u4e94\u671f-\u751f\u6001\u6269\u5c55.md": {
+    "mtime": 1777480886.7073157,
+    "hash": "414c876467b354205c968f865173d366"
+  },
+  "D:\\project\\mall\\docs\\\u9879\u76ee\u519b\u89c4.md": {
+    "mtime": 1777564052.887101,
+    "hash": "06385b173c29fc4dab67f56e3f147c9f"
+  },
+  "D:\\project\\mall\\docs\\design\\design-spec.md": {
+    "mtime": 1777620376.4211595,
+    "hash": "8ca4fa1e706b5336656f26d5b4b44d25"
+  },
+  "D:\\project\\mall\\docs\\prd\\PRD-\u7b2c1\u671f-MVP\u95ed\u73af.md": {
+    "mtime": 1777653826.5411346,
+    "hash": "84fed233038552891af7c6d5417dab56"
+  },
+  "D:\\project\\mall\\docs\\prd\\PRD-\u7b2c2\u671f-\u901a\u7528\u529f\u80fd.md": {
+    "mtime": 1777481040.7516918,
+    "hash": "a524c1162dbf552aa4eaf1ef631c847e"
+  },
+  "D:\\project\\mall\\docs\\prd\\PRD-\u7b2c3\u671f-\u7279\u8272\u529f\u80fd.md": {
+    "mtime": 1777481072.7132285,
+    "hash": "e07d877aed65e27d44029bdca115621a"
+  },
+  "D:\\project\\mall\\docs\\prd\\PRD-\u7b2c4\u671f-\u8fd0\u8425\u5347\u7ea7.md": {
+    "mtime": 1777481096.6136692,
+    "hash": "bb89af27f928a7829ba6add83e71289f"
+  },
+  "D:\\project\\mall\\docs\\prd\\PRD-\u7b2c5\u671f-\u751f\u6001\u6269\u5c55.md": {
+    "mtime": 1777481119.9820194,
+    "hash": "0f96adff4badc2b77e07229f465e5a73"
+  },
+  "D:\\project\\mall\\docs\\review\\phase1-acceptance-plan.md": {
+    "mtime": 1777538923.217415,
+    "hash": "ec56625a54e5ac1a2573590fdb5f8620"
+  },
+  "D:\\project\\mall\\docs\\review\\phase1-acceptance-report.md": {
+    "mtime": 1777545918.641664,
+    "hash": "9099d88b1e5b11a9791d822fcff2473e"
+  },
+  "D:\\project\\mall\\docs\\review\\security-audit.md": {
+    "mtime": 1777533072.715635,
+    "hash": "2cc65d2186557ee38ad510310ecfdc57"
+  },
+  "D:\\project\\mall\\docs\\test\\mobile-test-plan.md": {
+    "mtime": 1777905382.5111089,
+    "hash": "7975d45e8f215b9bd91066b585a353d9"
+  },
+  "D:\\project\\mall\\docs\\test\\mobile-test-report.md": {
+    "mtime": 1777944289.5515852,
+    "hash": "5facbb1274e0fff0603140f8ec79ee10"
+  },
+  "D:\\project\\mall\\e2e\\README.md": {
+    "mtime": 1777772933.598117,
+    "hash": "f0eb0c7d4f767c45cdf7b79a64930bb3"
+  },
+  "D:\\project\\mall\\e2e\\test-result.txt": {
+    "mtime": 1777773104.8672965,
+    "hash": "2fadecf5da1a6f63d42c4afa7d980550"
+  },
+  "D:\\project\\mall\\e2e\\\u5546\u6237\u7ba1\u7406\u540e\u53f0E2E\u6d4b\u8bd5\u62a5\u544a.md": {
+    "mtime": 1777984262.6853354,
+    "hash": "dcf63459876bfa7e261478d2cf1cab07"
+  },
+  "D:\\project\\mall\\e2e\\\u5546\u6237\u7ba1\u7406\u540e\u53f0E2E\u6d4b\u8bd5\u62a5\u544a_20260504.md": {
+    "mtime": 1777891004.6393638,
+    "hash": "cb97c70973ba06dc6ed8b95ec4b5e8b9"
+  },
+  "D:\\project\\mall\\e2e\\\u56de\u5f52\u6d4b\u8bd5\u62a5\u544a_20260503.md": {
+    "mtime": 1777786343.7410603,
+    "hash": "56953ff5f9143ce1de8bafe1e56eecc5"
+  },
+  "D:\\project\\mall\\e2e\\\u6d4b\u8bd5\u62a5\u544a_20260503.md": {
+    "mtime": 1777785524.7179024,
+    "hash": "9c6a1624e2168525bc16aba57629d91b"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\index.html": {
+    "mtime": 1777787472.3777983,
+    "hash": "150be85aaf8172764a9371f5550ae919"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\0e9eb5c4ff88b20af7c54637c4ece28e4cfae5df.md": {
+    "mtime": 1777787472.3429384,
+    "hash": "e99c021aad088c482e332ea9acaaebc6"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\1fb698e865785dfe2358bac7712995a9d7e4307b.md": {
+    "mtime": 1777787472.315941,
+    "hash": "d6b4864ffb77a3e10d13cd20c85f74cd"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\660bee6c023cad248122d790732ef7cf20bf234d.md": {
+    "mtime": 1777787472.339939,
+    "hash": "71e37b221e46c61cd8e77cfd3d360ffa"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\690e0007445aac330f431c4bf779236e9014f03f.md": {
+    "mtime": 1777787472.33394,
+    "hash": "917dac35cf9202205fc56787ab878fb3"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\6c12e7608806b3309ffc0204892ac71cb8b82168.md": {
+    "mtime": 1777787472.312941,
+    "hash": "9a06b9bd9822e1491ac1667980ccea4f"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\71d15949d83587fb6106224b58e9dd48e1c9b8ae.md": {
+    "mtime": 1777787472.3279407,
+    "hash": "63db7c8955b5c65c321d6230c14d7759"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\c847c481b1e628adb37ed4cfd2d735afe6b39236.md": {
+    "mtime": 1777787472.302464,
+    "hash": "3459dafa18d67f6cebf539782be5dbe6"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\e70571a65255ca6757c045987b3a2a33958bb634.md": {
+    "mtime": 1777787472.3219402,
+    "hash": "2eaa3812f760917b4a378488738eac32"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\trace\\index.html": {
+    "mtime": 1777770601.181455,
+    "hash": "e81b72620d3c61019ac5cde5f1456fa0"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\trace\\snapshot.html": {
+    "mtime": 1777770601.1834557,
+    "hash": "67ea969dd3e69466b5b7ee3fe7b5144e"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\trace\\uiMode.html": {
+    "mtime": 1777770601.1844585,
+    "hash": "4c89278e9dbcb30321a31ca55a240092"
+  },
+  "D:\\project\\mall\\mall-admin\\src\\main\\resources\\application-dev.yml": {
+    "mtime": 1777702146.5767012,
+    "hash": "fe3f7e8524b08f0000173e0dc679136e"
+  },
+  "D:\\project\\mall\\mall-admin\\src\\main\\resources\\application-prod.yml": {
+    "mtime": 1778000079.260794,
+    "hash": "4f4c4e289f872f57df08edb9a0d7581d"
+  },
+  "D:\\project\\mall\\mall-admin\\src\\main\\resources\\application.yml": {
+    "mtime": 1778000063.0458846,
+    "hash": "aef28f3d49a6cd60912e4d7e60ac7e87"
+  },
+  "D:\\project\\mall\\mall-admin-web\\index.html": {
+    "mtime": 1777482931.3001556,
+    "hash": "7b3ce936ae585fb06543eb978b15a5aa"
+  },
+  "D:\\project\\mall\\mall-admin-web\\README.md": {
+    "mtime": 1777483153.0997355,
+    "hash": "8667119c7ab8044fab5bde4ff45bf83a"
+  },
+  "D:\\project\\mall\\mall-api\\src\\main\\resources\\application-dev.yml": {
+    "mtime": 1777702146.5536754,
+    "hash": "fe3f7e8524b08f0000173e0dc679136e"
+  },
+  "D:\\project\\mall\\mall-api\\src\\main\\resources\\application-prod.yml": {
+    "mtime": 1778000073.0793161,
+    "hash": "4f4c4e289f872f57df08edb9a0d7581d"
+  },
+  "D:\\project\\mall\\mall-api\\src\\main\\resources\\application.yml": {
+    "mtime": 1778000056.2169945,
+    "hash": "80adec6ae47e0b58bddbaf92edbf9b7b"
+  },
+  "D:\\project\\mall\\mall-job\\src\\main\\resources\\application-dev.yml": {
+    "mtime": 1777702146.610701,
+    "hash": "243a14af03ed143582df2ed472f348be"
+  },
+  "D:\\project\\mall\\mall-job\\src\\main\\resources\\application.yml": {
+    "mtime": 1777996071.7105765,
+    "hash": "9f82384bed86c37a0678fa0f894e5076"
+  },
+  "D:\\project\\mall\\mall-mobile\\index.html": {
+    "mtime": 1777545769.656059,
+    "hash": "254e13820292cb2afc4e4ccb8f9acdde"
+  },
+  "D:\\project\\mall\\mall-mobile\\README.md": {
+    "mtime": 1777483568.5018866,
+    "hash": "f27699043b060427ec5c7c0547e44e21"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\index.html": {
+    "mtime": 1777483568.5018866,
+    "hash": "b688406955a8a3a31a7880c143745f85"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\static\\agreement\\privacy-policy.html": {
+    "mtime": 1777906296.2225814,
+    "hash": "f39bf06a073ab230bc056afc7e3e8204"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\static\\agreement\\user-agreement.html": {
+    "mtime": 1777906296.2068288,
+    "hash": "119dadc779484fe313a224bc3c33d197"
+  },
+  "D:\\project\\mall\\mall-pc\\README.md": {
+    "mtime": 1777482905.8398216,
+    "hash": "bd1130f4f5b223bef89d5eec38ae8373"
+  },
+  "D:\\project\\mall\\e2e\\merchant-list-final.png": {
+    "mtime": 1777773094.5323236,
+    "hash": "cbd2115612bf34966f53dde73cc9349c"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\01_after_login.png": {
+    "mtime": 1777858957.8224962,
+    "hash": "b43ce00aa3ef64bc4f546219d81e3ecb"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\02_merchant_list_page.png": {
+    "mtime": 1777858960.2544813,
+    "hash": "dde790ee1383dea186717dc92071c56c"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\03_page_elements_verified.png": {
+    "mtime": 1777802361.69561,
+    "hash": "6fb5dcd0bba337d41080241f432a49b6"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\04_table_data_check.png": {
+    "mtime": 1777802370.6052012,
+    "hash": "f042a2a2eb9a2b0694c5f1a7a2990ba3"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\05_filter_pending.png": {
+    "mtime": 1777802379.9523342,
+    "hash": "8f6f39a9f495fcce3a414fa280ba2a9a"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\06_filter_approved.png": {
+    "mtime": 1777802390.8612506,
+    "hash": "e65539fb9f26ef93ab9e787ee57ecc61"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\07_filter_rejected.png": {
+    "mtime": 1777802399.8981445,
+    "hash": "e512b8590c65f5e9f3018bcf02013de8"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\08_filter_disabled.png": {
+    "mtime": 1777802408.8642042,
+    "hash": "f898e341b00a63c0acf086d19e865a6d"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\09b_search_by_contact.png": {
+    "mtime": 1777802426.491363,
+    "hash": "6f5a9e205e4af954aa3469947d1f546c"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\09c_search_by_phone.png": {
+    "mtime": 1777802435.1929986,
+    "hash": "86f3912572a741313b32010c35c57cbf"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\09_search_button.png": {
+    "mtime": 1777771700.4269464,
+    "hash": "324fac25418317ade3e29dfd7d979521"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\09_search_by_name.png": {
+    "mtime": 1777802417.676594,
+    "hash": "ff6b426fa64663f48cd4c78110ebbef1"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\10_detail_dialog.png": {
+    "mtime": 1777802444.9346013,
+    "hash": "8877c6fe1c9cada37632717440b13861"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\11_score_dialog.png": {
+    "mtime": 1777802455.266512,
+    "hash": "a17817a277f6e9cf6236c5b14ced25c6"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\12_score_form_filled.png": {
+    "mtime": 1777802455.432433,
+    "hash": "fb93f98d9af8c6d0efd05681c88949cc"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\13_score_submit_result.png": {
+    "mtime": 1777802457.5454051,
+    "hash": "b9f8e8216e3d17061feaad5dee354de9"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\14_disable_confirm.png": {
+    "mtime": 1777802466.7315996,
+    "hash": "426f38b842a5e84155fcfd49aaa872d7"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\15_disable_result.png": {
+    "mtime": 1777802468.82871,
+    "hash": "1b3fd7375ed65df02bd9727c766e05fa"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\16_enable_result.png": {
+    "mtime": 1777802481.5896263,
+    "hash": "76dbb914ad83b75801431fd301822b62"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\17_page2.png": {
+    "mtime": 1777802491.7581127,
+    "hash": "10aaf94e56dbc0f6407e3c3303536845"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\18_page1_back.png": {
+    "mtime": 1777802493.3451736,
+    "hash": "070a87b1cfcbfd30dc29ca0b6554c4fd"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\audit-1-page-load.png": {
+    "mtime": 1777855795.639248,
+    "hash": "5a0a372df7ca9a2486144d09ffb5ef05"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\audit-2-detail.png": {
+    "mtime": 1777802362.42758,
+    "hash": "6d3897d64feb3d98fe3d1040f009d915"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\brand-1-page-load.png": {
+    "mtime": 1777855795.6522875,
+    "hash": "75bbc30501dfdcb2d5eeddcc4f1a2312"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\brand-2-add-form.png": {
+    "mtime": 1777802363.0684652,
+    "hash": "4d77cf2c7689f63733d7c073d94a8e66"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\brand-2-add-result.png": {
+    "mtime": 1777787363.8036819,
+    "hash": "28e92fcdfc6b3863fa70d7f94b0ecf61"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\brand-3-edit-form.png": {
+    "mtime": 1777802378.5758615,
+    "hash": "b9079847d0f3c95c63bc1e817a422186"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\brand-3-edit-result.png": {
+    "mtime": 1777787372.1375785,
+    "hash": "8b824c3d9ab15c06966899a9aed0780a"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\brand-4-status.png": {
+    "mtime": 1777802393.7502077,
+    "hash": "6db7d523e40ffe58e151b3c40f7c95e7"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\brand-5-delete-confirm.png": {
+    "mtime": 1777802401.034816,
+    "hash": "aa4c3789ce647c35d5bab71069f93fee"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\brand-5-delete-result.png": {
+    "mtime": 1777802401.4520838,
+    "hash": "0a16d89657caced047a6424042a3c8a3"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\category-1-page-load.png": {
+    "mtime": 1777855785.1257944,
+    "hash": "69ac964edbdb61dd5c37c06287e76cb3"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\category-2-add-form.png": {
+    "mtime": 1777802362.4371831,
+    "hash": "74c41a7384630e7f383255e488da1049"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\category-2-add-result.png": {
+    "mtime": 1777802362.8958228,
+    "hash": "1199d0fdfea26e98211dc7a68af1a1b2"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\category-3-edit-form.png": {
+    "mtime": 1777802370.2952273,
+    "hash": "efeb41f68d9b76c7d21dd7357d398f8e"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\category-3-edit-result.png": {
+    "mtime": 1777802370.7043648,
+    "hash": "738504e6e8fa0673b214e3a17aae9783"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\category-4-add-sub-form.png": {
+    "mtime": 1777802378.2955508,
+    "hash": "c47658404d6df55d773536502ef730e5"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\category-4-add-sub-result.png": {
+    "mtime": 1777802378.7054439,
+    "hash": "653c2ff0633bf50569b695527ca9750c"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\category-5-delete-confirm.png": {
+    "mtime": 1777802385.8848443,
+    "hash": "f05207e6761a3fc1cab63699d47f7c5e"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\category-5-delete-result.png": {
+    "mtime": 1777786662.8165112,
+    "hash": "9a41e987bef949863e8fd2888e9377e4"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\member-1-page-load.png": {
+    "mtime": 1777855790.6537075,
+    "hash": "bd1c23abcfbd6e796dae9488cd6b97d9"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\member-2-table-display.png": {
+    "mtime": 1777812644.6774027,
+    "hash": "7e1cdced8945398204ce9c9291a0ebc2"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\member-3-refresh.png": {
+    "mtime": 1777812653.791528,
+    "hash": "a44d1ac9c8fce63c8758e87e379a6d3b"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\member-4-member-info.png": {
+    "mtime": 1777811524.3326752,
+    "hash": "fd1d08be6664a99c903d349617ada737"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\member-5-pagination.png": {
+    "mtime": 1777811534.1000097,
+    "hash": "ba1e90db888fb0a85911335bcbef3333"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-dashboard-1-load.png": {
+    "mtime": 1777884648.903536,
+    "hash": "0f4aa928dcad52d83ef2b0876f1066ca"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-dashboard-2-stats.png": {
+    "mtime": 1777884656.048499,
+    "hash": "0f4aa928dcad52d83ef2b0876f1066ca"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-dashboard-3-trend.png": {
+    "mtime": 1777884663.3005457,
+    "hash": "0f4aa928dcad52d83ef2b0876f1066ca"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-dashboard-4-ranking.png": {
+    "mtime": 1777884670.818141,
+    "hash": "0f4aa928dcad52d83ef2b0876f1066ca"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-dashboard-5-tasks.png": {
+    "mtime": 1777884678.0074806,
+    "hash": "0f4aa928dcad52d83ef2b0876f1066ca"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-dashboard-6-navigate.png": {
+    "mtime": 1777884686.3071177,
+    "hash": "0cc02f6ba092271a661e5c54477a05fd"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-finance-1-load.png": {
+    "mtime": 1777884648.5838816,
+    "hash": "afdc06fbc9d63314a7ebcc8ca84947e8"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-finance-2-cards.png": {
+    "mtime": 1777884655.5788164,
+    "hash": "afdc06fbc9d63314a7ebcc8ca84947e8"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-finance-3-table.png": {
+    "mtime": 1777884663.0859065,
+    "hash": "afdc06fbc9d63314a7ebcc8ca84947e8"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-finance-4-withdraw-btn.png": {
+    "mtime": 1777884670.4612217,
+    "hash": "afdc06fbc9d63314a7ebcc8ca84947e8"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-finance-5-dialog.png": {
+    "mtime": 1777884678.684725,
+    "hash": "a171f9722e3cc05d1d4368609488030d"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-order-1-load.png": {
+    "mtime": 1777884649.8821173,
+    "hash": "1bc1cff534e4fd7782cbf2a4b1324e4e"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-order-2-search.png": {
+    "mtime": 1777884658.8836048,
+    "hash": "c1f38008070ec335f0ac3383f2059d0c"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-order-3-status-\u5df2\u53d6\u6d88.png": {
+    "mtime": 1777884676.8777707,
+    "hash": "0f4c96ca99a1557ed9bb7cf116c2d608"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-order-3-status-\u5f85\u4ed8\u6b3e.png": {
+    "mtime": 1777884670.0321374,
+    "hash": "a010c00e1d4939f7469b2ff52c226a75"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-order-3-status-\u5f85\u6536\u8d27.png": {
+    "mtime": 1777884673.4736438,
+    "hash": "a679e00f67c3842a5de301accaf21aa2"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-order-4-detail.png": {
+    "mtime": 1777884686.3250692,
+    "hash": "93bd2aeb7ebdba25f9199e803f05313f"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-order-5-ship-form.png": {
+    "mtime": 1777884697.5319543,
+    "hash": "69ecc9b65be5b3d2c46dc00d84ef00e6"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-order-6-pagination.png": {
+    "mtime": 1777884706.4103603,
+    "hash": "d1f5df4e85752943d2facd7a2f4903cc"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-product-1-load.png": {
+    "mtime": 1777884649.8623836,
+    "hash": "b6687dcab7d0015ca21089b0c77f691a"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-product-2-search.png": {
+    "mtime": 1777884658.9398847,
+    "hash": "7a53d2b621e6c4bc345cc52dc17f32d0"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-product-4-status-\u5df2\u4e0a\u67b6.png": {
+    "mtime": 1777884681.4692328,
+    "hash": "67e9abce9f2611a3af51babbc1adf486"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-product-4-status-\u8349\u7a3f.png": {
+    "mtime": 1777884677.0338264,
+    "hash": "2718fa0dc6e7c51a4f7c76636e7f2016"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-product-5-publish.png": {
+    "mtime": 1777884694.6595788,
+    "hash": "991003dcf41d82bc3e5b54ccee772863"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-product-6-unpublish.png": {
+    "mtime": 1777884704.8457778,
+    "hash": "ec12144deb1447be51300e2207f38703"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-product-7-edit.png": {
+    "mtime": 1777884713.858997,
+    "hash": "16557e3074fcfee3219208d3a1029cdf"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-product-8-add-page.png": {
+    "mtime": 1777884721.8073092,
+    "hash": "d7a4d55b74f39e6741d92c7cd2a9ff77"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-product-9-pagination.png": {
+    "mtime": 1777884733.5902371,
+    "hash": "61200eb76c134967a2e2d6bffd924d60"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-refund-1-load.png": {
+    "mtime": 1777884649.6270306,
+    "hash": "36b8849b99877ec50c5b5bad031f3f3d"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-refund-2-table.png": {
+    "mtime": 1777884656.9151227,
+    "hash": "36b8849b99877ec50c5b5bad031f3f3d"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-shop-1-load.png": {
+    "mtime": 1777884648.9887853,
+    "hash": "8bd9a46ac16e837e9a6ead98cb309474"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-shop-2-form.png": {
+    "mtime": 1777884656.1130235,
+    "hash": "8bd9a46ac16e837e9a6ead98cb309474"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-shop-3-edit.png": {
+    "mtime": 1777884663.2528398,
+    "hash": "7e352a9ade623fdbb17339c148c67e60"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-shop-4-save-btn.png": {
+    "mtime": 1777884670.6311705,
+    "hash": "8bd9a46ac16e837e9a6ead98cb309474"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\merchant-shop-5-divider.png": {
+    "mtime": 1777884677.8323286,
+    "hash": "8bd9a46ac16e837e9a6ead98cb309474"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\notice-1-page-load.png": {
+    "mtime": 1777856302.6880476,
+    "hash": "dde790ee1383dea186717dc92071c56c"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\notice-2-filter-status.png": {
+    "mtime": 1777812639.252416,
+    "hash": "4d14e0abcb90c893feb1b9b70eb85d12"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\notice-3-add-form.png": {
+    "mtime": 1777812647.3916845,
+    "hash": "5bf7a8884e333b7c6e3b8c02f22eab8a"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\order-1-page-load.png": {
+    "mtime": 1777855796.2633448,
+    "hash": "b3912b689241fa1c2837e3920178fb19"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\order-2-search-order-no.png": {
+    "mtime": 1777812653.058066,
+    "hash": "1e01b80eb1b7b57ae99fcd7614c51812"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\order-3-filter-status.png": {
+    "mtime": 1777812664.3799608,
+    "hash": "9977b06755aa4da4343d59fb69f487f1"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\order-4-detail.png": {
+    "mtime": 1777811529.6674118,
+    "hash": "7874b55bf219bc3c3bdb7e9fa5185a2e"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\order-6-pagination.png": {
+    "mtime": 1777811548.7562795,
+    "hash": "0d466f243305101ba0c264e5fb67414d"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\product-2-search-keyword.png": {
+    "mtime": 1777802385.805879,
+    "hash": "8877b2df769238d0ca8b1c908fa4c564"
+  },
+  "D:\\project\\mall\\e2e\\e2e\\screenshots\\product-4-filter-status-0.png": {
+    "mtime": 1777782680.7075088,
+    "hash": "1ccbbc06cede98572fdf3194413e32e3"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\08876acddb1e745f5722213bb41d9abdfeab7639.png": {
+    "mtime": 1777787472.2695906,
+    "hash": "3fdb6ce769b23e75104f8859c9c561ff"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\203d485617e16f36659b6e38a7902ca5dcac6c76.png": {
+    "mtime": 1777787472.281594,
+    "hash": "ba8a9ba81be858611e214862e8b94227"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\3814010b16873789827696ff41d20b5792fc8fba.png": {
+    "mtime": 1777787472.3419385,
+    "hash": "21ddd5f9357ddc522553ad4295e886fe"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\410352081902db4e565e3ac96d52a5d9f53ea175.png": {
+    "mtime": 1777787472.3149407,
+    "hash": "9626a189ac365d319d954a384da9cd7c"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\5c3dc6615ba391c7dc4462250b1824f8da4539dd.png": {
+    "mtime": 1777787472.2745938,
+    "hash": "7a5fdbb2424e70654f00fb1971fdb088"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\62d1c7e026c9f996b62370c658dba8289cab4489.png": {
+    "mtime": 1777787472.2795944,
+    "hash": "08ec840e55bef65fe994abbcbbc7396b"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\688bc933c233237eb37edf497afa19fec9f4d158.png": {
+    "mtime": 1777787472.29665,
+    "hash": "e4da27d0719c37f84406c0c82ae82b54"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\707e8904b0c0cc10f4735b4fb18a094fc704f49c.png": {
+    "mtime": 1777787472.2921052,
+    "hash": "237d6f0c6c88c292e165abb56e312486"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\88232209b37185664826352123e00e5b5f0b9554.png": {
+    "mtime": 1777787472.3449388,
+    "hash": "ca47b834513ce78b476848840f1356e7"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\8c59f9ad31f1782ef924c61537b50b1fde63b0fa.png": {
+    "mtime": 1777787472.2675908,
+    "hash": "f0215a80d8941d495930ed5630ec7976"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\8e55181463dfe43039ba537da0753c8f3b1b0ca4.png": {
+    "mtime": 1777787472.2855937,
+    "hash": "8a177f53c3e89ee1e7875c1c97782d19"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\9641f80fa3f619a19d13360653d21f3c885e40ac.png": {
+    "mtime": 1777787472.3189402,
+    "hash": "9cb45976b2f736708d4075a20c01b3f6"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\d2ec926c084a2d7f5501ba17aeefb87a3103f8d4.png": {
+    "mtime": 1777787472.3119414,
+    "hash": "0b40b5f7bf1915390fa87b6f61d3ee01"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\d95435f5a183b5fda8bd0a33ffea75e52fbc80e4.png": {
+    "mtime": 1777787472.3239408,
+    "hash": "8877b2df769238d0ca8b1c908fa4c564"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\f266ad7c74c3333be7c7ab45a3a990416e26a0e3.png": {
+    "mtime": 1777787472.3013525,
+    "hash": "3f661f145d4dcf912ac2f689b13b0fae"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\f96c3632526ecc0f207708011cdd256e8318c9cc.png": {
+    "mtime": 1777787472.288593,
+    "hash": "0ac7a4688357b0e48ebae73894a85b35"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\trace\\playwright-logo.svg": {
+    "mtime": 1777770601.6409004,
+    "hash": "3a2e616a4c02faa220f078f403535bfa"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-dashboard-\u5546\u6237\u5de5\u4f5c\u53f0\u81ea\u52a8\u5316\u6d4b\u8bd5-1-\u9875\u9762\u52a0\u8f7d\u9a8c\u8bc1-chromium\\test-finished-1.png": {
+    "mtime": 1777884648.9501734,
+    "hash": "0f4aa928dcad52d83ef2b0876f1066ca"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-dashboard-\u5546\u6237\u5de5\u4f5c\u53f0\u81ea\u52a8\u5316\u6d4b\u8bd5-2-\u7edf\u8ba1\u6570\u636e\u5c55\u793a\u9a8c\u8bc1-chromium\\test-finished-1.png": {
+    "mtime": 1777884656.101503,
+    "hash": "0f4aa928dcad52d83ef2b0876f1066ca"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-dashboard-\u5546\u6237\u5de5\u4f5c\u53f0\u81ea\u52a8\u5316\u6d4b\u8bd5-3-\u8d8b\u52bf\u56fe\u8868\u5c55\u793a\u9a8c\u8bc1-chromium\\test-finished-1.png": {
+    "mtime": 1777884663.365755,
+    "hash": "0f4aa928dcad52d83ef2b0876f1066ca"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-dashboard-\u5546\u6237\u5de5\u4f5c\u53f0\u81ea\u52a8\u5316\u6d4b\u8bd5-4-\u5546\u54c1\u9500\u91cf\u6392\u884c\u5c55\u793a\u9a8c\u8bc1-chromium\\test-finished-1.png": {
+    "mtime": 1777884670.8718345,
+    "hash": "0f4aa928dcad52d83ef2b0876f1066ca"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-dashboard-\u5546\u6237\u5de5\u4f5c\u53f0\u81ea\u52a8\u5316\u6d4b\u8bd5-5-\u5f85\u5904\u7406\u4e8b\u9879\u5c55\u793a\u9a8c\u8bc1-chromium\\test-finished-1.png": {
+    "mtime": 1777884678.0665927,
+    "hash": "0f4aa928dcad52d83ef2b0876f1066ca"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-dashboard-\u5546\u6237\u5de5\u4f5c\u53f0\u81ea\u52a8\u5316\u6d4b\u8bd5-6-\u70b9\u51fb\u5f85\u5904\u7406\u4e8b\u9879\u8df3\u8f6c\u9a8c\u8bc1-chromium\\test-finished-1.png": {
+    "mtime": 1777884686.3672588,
+    "hash": "ce329b649fd3b75231420de7c8e34273"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-finance-\u5546\u6237\u8d44\u91d1\u7ba1\u7406\u81ea\u52a8\u5316\u6d4b\u8bd5-1-\u9875\u9762\u52a0\u8f7d\u9a8c\u8bc1-chromium\\test-finished-1.png": {
+    "mtime": 1777884648.6307898,
+    "hash": "afdc06fbc9d63314a7ebcc8ca84947e8"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-finance-\u5546\u6237\u8d44\u91d1\u7ba1\u7406\u81ea\u52a8\u5316\u6d4b\u8bd5-2-\u8d44\u91d1\u7edf\u8ba1\u5361\u7247\u9a8c\u8bc1-chromium\\test-finished-1.png": {
+    "mtime": 1777884655.619249,
+    "hash": "afdc06fbc9d63314a7ebcc8ca84947e8"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-finance-\u5546\u6237\u8d44\u91d1\u7ba1\u7406\u81ea\u52a8\u5316\u6d4b\u8bd5-3-\u7ed3\u7b97\u8bb0\u5f55\u8868\u683c\u9a8c\u8bc1-chromium\\test-finished-1.png": {
+    "mtime": 1777884663.1386838,
+    "hash": "afdc06fbc9d63314a7ebcc8ca84947e8"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-finance-\u5546\u6237\u8d44\u91d1\u7ba1\u7406\u81ea\u52a8\u5316\u6d4b\u8bd5-4-\u7533\u8bf7\u63d0\u73b0\u6309\u94ae\u9a8c\u8bc1-chromium\\test-finished-1.png": {
+    "mtime": 1777884670.4959953,
+    "hash": "afdc06fbc9d63314a7ebcc8ca84947e8"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-finance-\u5546\u6237\u8d44\u91d1\u7ba1\u7406\u81ea\u52a8\u5316\u6d4b\u8bd5-5-\u7533\u8bf7\u63d0\u73b0\u5bf9\u8bdd\u6846\u9a8c\u8bc1-chromium\\test-finished-1.png": {
+    "mtime": 1777884679.1966405,
+    "hash": "a3ee2ac17bd292c8d8622ed02dabb661"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-finance-\u5546\u6237\u8d44\u91d1\u7ba1\u7406\u81ea\u52a8\u5316\u6d4b\u8bd5-6-\u5206\u9875\u529f\u80fd\u6d4b\u8bd5-chromium\\test-finished-1.png": {
+    "mtime": 1777884686.019882,
+    "hash": "afdc06fbc9d63314a7ebcc8ca84947e8"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-order-\u5546\u6237\u8ba2\u5355\u7ba1\u7406\u81ea\u52a8\u5316\u6d4b\u8bd5-1-\u9875\u9762\u52a0\u8f7d\u9a8c\u8bc1-chromium\\test-finished-1.png": {
+    "mtime": 1777884649.9366655,
+    "hash": "a04dd31d8b3de38cd57e6b0f0ce90189"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-order-\u5546\u6237\u8ba2\u5355\u7ba1\u7406\u81ea\u52a8\u5316\u6d4b\u8bd5-2-\u8ba2\u5355\u53f7\u641c\u7d22\u529f\u80fd-chromium\\test-finished-1.png": {
+    "mtime": 1777884660.5809472,
+    "hash": "992039ed203f2841c02c3ceda0dcc462"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-order-\u5546\u6237\u8ba2\u5355\u7ba1\u7406\u81ea\u52a8\u5316\u6d4b\u8bd5-3-\u8ba2\u5355\u72b6\u6001\u7b5b\u9009\u6d4b\u8bd5-chromium\\test-finished-1.png": {
+    "mtime": 1777884678.024247,
+    "hash": "6a515e9220815c1fa18b674963937f29"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-order-\u5546\u6237\u8ba2\u5355\u7ba1\u7406\u81ea\u52a8\u5316\u6d4b\u8bd5-4-\u67e5\u770b\u8ba2\u5355\u8be6\u60c5\u529f\u80fd-chromium\\test-finished-1.png": {
+    "mtime": 1777884686.7992988,
+    "hash": "bbba13c1676d261dbbb3140ac26af982"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-order-\u5546\u6237\u8ba2\u5355\u7ba1\u7406\u81ea\u52a8\u5316\u6d4b\u8bd5-5-\u8ba2\u5355\u53d1\u8d27\u529f\u80fd\u6d4b\u8bd5-chromium\\test-finished-1.png": {
+    "mtime": 1777884697.9946334,
+    "hash": "4ef369707532340032e7a8e9b8f9dadf"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-order-\u5546\u6237\u8ba2\u5355\u7ba1\u7406\u81ea\u52a8\u5316\u6d4b\u8bd5-6-\u5206\u9875\u529f\u80fd\u6d4b\u8bd5-chromium\\test-finished-1.png": {
+    "mtime": 1777884706.4361753,
+    "hash": "d1f5df4e85752943d2facd7a2f4903cc"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-product-\u5546\u6237\u5546\u54c1\u7ba1\u7406\u81ea\u52a8\u5316\u6d4b\u8bd5-1-\u9875\u9762\u52a0\u8f7d\u9a8c\u8bc1-chromium\\test-finished-1.png": {
+    "mtime": 1777884649.9222097,
+    "hash": "b6687dcab7d0015ca21089b0c77f691a"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-product-\u5546\u6237\u5546\u54c1\u7ba1\u7406\u81ea\u52a8\u5316\u6d4b\u8bd5-2-\u5173\u952e\u8bcd\u641c\u7d22\u529f\u80fd-chromium\\test-finished-1.png": {
+    "mtime": 1777884659.0089853,
+    "hash": "7a53d2b621e6c4bc345cc52dc17f32d0"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-product-\u5546\u6237\u5546\u54c1\u7ba1\u7406\u81ea\u52a8\u5316\u6d4b\u8bd5-3-\u5206\u7c7b\u7b5b\u9009\u529f\u80fd-chromium\\test-finished-1.png": {
+    "mtime": 1777884667.1564808,
+    "hash": "ea6c2d8efc1d494a7f4a06417c2310bb"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-product-\u5546\u6237\u5546\u54c1\u7ba1\u7406\u81ea\u52a8\u5316\u6d4b\u8bd5-4-\u72b6\u6001\u7b5b\u9009\u529f\u80fd-chromium\\test-finished-1.png": {
+    "mtime": 1777884683.1746957,
+    "hash": "c682ce93f114510b11dc33fe768945d2"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-product-\u5546\u6237\u5546\u54c1\u7ba1\u7406\u81ea\u52a8\u5316\u6d4b\u8bd5-5-\u5546\u54c1\u4e0a\u67b6\u529f\u80fd-chromium\\test-finished-1.png": {
+    "mtime": 1777884694.7096434,
+    "hash": "991003dcf41d82bc3e5b54ccee772863"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-product-\u5546\u6237\u5546\u54c1\u7ba1\u7406\u81ea\u52a8\u5316\u6d4b\u8bd5-6-\u5546\u54c1\u4e0b\u67b6\u529f\u80fd-chromium\\test-finished-1.png": {
+    "mtime": 1777884704.898646,
+    "hash": "ec12144deb1447be51300e2207f38703"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-product-\u5546\u6237\u5546\u54c1\u7ba1\u7406\u81ea\u52a8\u5316\u6d4b\u8bd5-7-\u7f16\u8f91\u5546\u54c1\u529f\u80fd-chromium\\test-finished-1.png": {
+    "mtime": 1777884713.9006567,
+    "hash": "16557e3074fcfee3219208d3a1029cdf"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-product-\u5546\u6237\u5546\u54c1\u7ba1\u7406\u81ea\u52a8\u5316\u6d4b\u8bd5-8-\u8df3\u8f6c\u53d1\u5e03\u5546\u54c1\u9875\u9762\u9a8c\u8bc1-chromium\\test-finished-1.png": {
+    "mtime": 1777884721.8363419,
+    "hash": "d7a4d55b74f39e6741d92c7cd2a9ff77"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-product-\u5546\u6237\u5546\u54c1\u7ba1\u7406\u81ea\u52a8\u5316\u6d4b\u8bd5-9-\u5206\u9875\u529f\u80fd\u6d4b\u8bd5-chromium\\test-finished-1.png": {
+    "mtime": 1777884733.6225612,
+    "hash": "61200eb76c134967a2e2d6bffd924d60"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-refund-\u5546\u6237\u9000\u6362\u8d27\u7ba1\u7406\u81ea\u52a8\u5316\u6d4b\u8bd5-1-\u9875\u9762\u52a0\u8f7d\u9a8c\u8bc1-chromium\\test-finished-1.png": {
+    "mtime": 1777884649.6835454,
+    "hash": "36b8849b99877ec50c5b5bad031f3f3d"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-refund-\u5546\u6237\u9000\u6362\u8d27\u7ba1\u7406\u81ea\u52a8\u5316\u6d4b\u8bd5-2-\u8868\u683c\u6570\u636e\u5c55\u793a\u9a8c\u8bc1-chromium\\test-finished-1.png": {
+    "mtime": 1777884656.9610329,
+    "hash": "36b8849b99877ec50c5b5bad031f3f3d"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-refund-\u5546\u6237\u9000\u6362\u8d27\u7ba1\u7406\u81ea\u52a8\u5316\u6d4b\u8bd5-3-\u540c\u610f\u9000\u6b3e\u529f\u80fd\u6d4b\u8bd5-chromium\\test-finished-1.png": {
+    "mtime": 1777884663.9692824,
+    "hash": "36b8849b99877ec50c5b5bad031f3f3d"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-refund-\u5546\u6237\u9000\u6362\u8d27\u7ba1\u7406\u81ea\u52a8\u5316\u6d4b\u8bd5-4-\u62d2\u7edd\u9000\u6b3e\u529f\u80fd\u6d4b\u8bd5-chromium\\test-finished-1.png": {
+    "mtime": 1777884671.1593559,
+    "hash": "36b8849b99877ec50c5b5bad031f3f3d"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-refund-\u5546\u6237\u9000\u6362\u8d27\u7ba1\u7406\u81ea\u52a8\u5316\u6d4b\u8bd5-5-\u5206\u9875\u529f\u80fd\u6d4b\u8bd5-chromium\\test-finished-1.png": {
+    "mtime": 1777884678.3391292,
+    "hash": "36b8849b99877ec50c5b5bad031f3f3d"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-shop-\u5546\u6237\u5e97\u94fa\u8bbe\u7f6e\u81ea\u52a8\u5316\u6d4b\u8bd5-1-\u9875\u9762\u52a0\u8f7d\u9a8c\u8bc1-chromium\\test-finished-1.png": {
+    "mtime": 1777884649.034928,
+    "hash": "bca331604e755c6ba89a59091d284dbb"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-shop-\u5546\u6237\u5e97\u94fa\u8bbe\u7f6e\u81ea\u52a8\u5316\u6d4b\u8bd5-2-\u8868\u5355\u5b57\u6bb5\u5c55\u793a\u9a8c\u8bc1-chromium\\test-finished-1.png": {
+    "mtime": 1777884656.1685112,
+    "hash": "bca331604e755c6ba89a59091d284dbb"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-shop-\u5546\u6237\u5e97\u94fa\u8bbe\u7f6e\u81ea\u52a8\u5316\u6d4b\u8bd5-3-\u5e97\u94fa\u4fe1\u606f\u7f16\u8f91\u9a8c\u8bc1-chromium\\test-finished-1.png": {
+    "mtime": 1777884663.4228127,
+    "hash": "90b1731f8ae05f400c1c392958357b0e"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-shop-\u5546\u6237\u5e97\u94fa\u8bbe\u7f6e\u81ea\u52a8\u5316\u6d4b\u8bd5-4-\u4fdd\u5b58\u6309\u94ae\u529f\u80fd\u9a8c\u8bc1-chromium\\test-finished-1.png": {
+    "mtime": 1777884670.6822627,
+    "hash": "bca331604e755c6ba89a59091d284dbb"
+  },
+  "D:\\project\\mall\\e2e\\test-results\\merchant-shop-\u5546\u6237\u5e97\u94fa\u8bbe\u7f6e\u81ea\u52a8\u5316\u6d4b\u8bd5-5-\u5206\u9694\u7ebf\u548c\u8054\u7cfb\u4fe1\u606f\u5c55\u793a\u9a8c\u8bc1-chromium\\test-finished-1.png": {
+    "mtime": 1777884677.8838985,
+    "hash": "bca331604e755c6ba89a59091d284dbb"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\static\\tab\\cart-active.png": {
+    "mtime": 1777943564.2323196,
+    "hash": "6c202d9be5b33364f20ed595971d0bfc"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\static\\tab\\cart.png": {
+    "mtime": 1777943564.2323196,
+    "hash": "ff80ee37ab0967cde6bfc1faa28437a2"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\static\\tab\\category-active.png": {
+    "mtime": 1777943564.2271907,
+    "hash": "df49c4d1568ac8080e502f74f8e21738"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\static\\tab\\category.png": {
+    "mtime": 1777943564.2271907,
+    "hash": "308084faa080e91f1d9bb0611b9f340b"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\static\\tab\\home-active.png": {
+    "mtime": 1777943564.2271907,
+    "hash": "5322ec2c643bfd2973ba11a38d8a2577"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\static\\tab\\home.png": {
+    "mtime": 1777943564.2271907,
+    "hash": "9cb3d7dd280fc8b27c17504602622ade"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\static\\tab\\mine-active.png": {
+    "mtime": 1777943564.2323196,
+    "hash": "59c0bf690b59fcf5d7b15abbbeab4a61"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\static\\tab\\mine.png": {
+    "mtime": 1777943564.2323196,
+    "hash": "baba688890986763cb80a91abfd49807"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\static\\tab\\order-active.png": {
+    "mtime": 1777943564.2271907,
+    "hash": "898ea0e73c271a08b438f72d18d68f18"
+  },
+  "D:\\project\\mall\\mall-mobile\\src\\static\\tab\\order.png": {
+    "mtime": 1777943564.2271907,
+    "hash": "b22b1bab5e63e0dd9c40cf7aff7ba4af"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\49b5a004b6d75005319fe4b8cc97823f14faa401.webm": {
+    "mtime": 1777787472.3429384,
+    "hash": "e5422d42b75c3dabdcc36ee70971d419"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\5afa977f9cd6589a8d0a1f8e28304737f479ea10.webm": {
+    "mtime": 1777787472.33394,
+    "hash": "039579708926f55a8bad5d6d2122c946"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\635f0502e96bb2a8781438801d68aa8ced9335f1.webm": {
+    "mtime": 1777787472.3269405,
+    "hash": "66b3141ce8ed475d9278823afb05377b"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\6c8e32b5d9fa110b722985819e5d8f9ed05e5a13.webm": {
+    "mtime": 1777787472.338954,
+    "hash": "fb8726d3d1f154f76525f26d18373e5f"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\71e7cd890939657c6252b11b5303cc1ab63000c7.webm": {
+    "mtime": 1777787472.302464,
+    "hash": "5eaa73ae8cc96f2b2c1743e1720c9b69"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\778cfa4320d7185955ce939302fadd1710299a7b.webm": {
+    "mtime": 1777787472.3119414,
+    "hash": "f58ba4a2e79fb09dc6124923dc72616c"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\cf939f7834e04b39fcafa35500b8db7da0c10497.webm": {
+    "mtime": 1777787472.315941,
+    "hash": "7a84719d14d05251b20c1633362fe849"
+  },
+  "D:\\project\\mall\\e2e\\playwright-report\\data\\e42464a76ce39aeb4e6b3ee50b23b9662d241ae1.webm": {
+    "mtime": 1777787472.3219402,
+    "hash": "bf11bb978d0000fdb7780a78afcad1ab"
+  }
+}

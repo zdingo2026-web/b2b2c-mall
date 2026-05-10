@@ -419,3 +419,74 @@ curl 'http://localhost:5174/api/v1/platform/file/upload' \
   ---
   总结：建议按 安全修复 → 功能补全 → 代码质量 → 安全加固 的顺序推进。6 个 P0
   安全问题必须在任何对外部署前修复。PRD 合规率 75%，3 个未实现功能中 P-04 为 P0 阻断项。
+  
+  
+  
+  
+# 目标
+把《第一期 (Phase 1) 代码审查报告》作成下一步要处理的待办事项
+接受建议，按照优先级开始进行修复处理
+
+# 团队
+使用多个Agent团队方式并行进行修复
+
+# 要求
+需要而且必须使用agent-skills的技能进行开发工作
+修复后不要影响原本功能的使用
+
+
+
+
+1、
+curl 'http://localhost:3002/api/v1/member/product/spu/list?page=1&limit=10' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: zh-CN,zh;q=0.9' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/json' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://localhost:3002/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1'
+  
+ {"code":9001,"msg":"系统繁忙，请稍后重试","data":null,"success":false}
+ 
+ 2、图片无法访问
+/static/tab/home-active.png
+/static/tab/order.png
+
+
+
+
+
+
+
+
+
+--------------------------------二期-----------------------------------------
+# 目标
+对二期功能进行设计，包括完成
+1、需求设计、功能设计、技术方案设计
+2、页面设计（需要包括哪些页面，页面需要包括哪些功能，涉及什么交互）
+3、测试用例设计，需要覆盖页面设计的所有。
+4、表结构设计
+5、接口设计
+按照顺序进行对应的设计，每项设计完成后需要等我确认后再开启下一项内容
+
+
+# 团队
+如有需要，使用多个Agent团队方式进行开发，加快速度
+帮我规划下需要哪些Agent，分别做什么工作
+
+# 要求
+如果你根据现有材料无法判断，请先跟我对齐信息，再进行处理
+需要而且必须使用agent-skills对应的技能进行开发工作
+
+
+
+
+
+测试用例设计重新做下，一份总体的测试用例，按照平台管理端、商户管理端、移动端各一份测试用例，测试用例需要查看页面设计和界面设计，对所有功能、所有操作进行
+  测试，测试过程需要截图，通过分析截图判断测试用例是否通过，如果涉及列表等页面，无数据需要先提供模拟数据，有数据才算测试通过，否则为未通过
